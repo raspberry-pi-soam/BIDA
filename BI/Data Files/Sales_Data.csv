@@ -1,0 +1,1501 @@
+Date,Region,Product,Quantity,UnitPrice,StoreLocation,CustomerType,Discount,Salesperson,TotalPrice,PaymentMethod
+2023-02-23,East,Laptop,14,163.6,Store B,Wholesale,0,Eva,2290.4,Online
+2024-12-19,South,Phone,1,544.01,Store A,Retail,0,Alice,544.01,Gift Card
+2023-05-10,North,Desk,14,346.18,Store B,Wholesale,0.1,Alice,4361.868,Online
+2025-02-26,Central,Chair,18,384.82,Store A,Wholesale,0.15,Frank,5887.746,Gift Card
+2023-06-24,East,Desk,18,237.76,Store C,Retail,0,Carlos,4279.68,Online
+2024-02-20,Central,Monitor,2,385.09,Store D,Wholesale,0.15,Diana,654.653,Credit Card
+2023-01-11,South,Chair,7,17.5,Store C,Retail,0.1,Alice,110.25,Debit Card
+2023-01-09,Central,Chair,3,330.22,Store C,Wholesale,0.15,Carlos,842.061,Cash
+2024-10-16,South,Chair,3,432.04,Store D,Wholesale,0.05,Bob,1231.314,Debit Card
+2025-03-05,West,Desk,5,323.28,Store D,Retail,0.1,Frank,1454.76,Gift Card
+2024-04-10,North,Desk,15,523.29,Store B,Wholesale,0.15,Eva,6671.9475,Debit Card
+2024-07-12,East,Phone,19,207.35,Store D,Retail,0.1,Eva,3545.685,Gift Card
+2023-07-21,Central,Phone,1,120.53,Store B,Retail,0.05,Diana,114.5035,Cash
+2025-01-18,West,Tablet,1,157.83,Store A,Wholesale,0.15,Carlos,134.1555,Debit Card
+2024-12-08,North,Desk,15,220.3,Store B,Retail,0.15,Diana,2808.825,Debit Card
+2025-05-11,West,Chair,17,162.96,Store A,Wholesale,0.05,Eva,2631.804,Gift Card
+2023-02-26,West,Laptop,19,236.11,Store D,Wholesale,0,Bob,4486.09,Online
+2024-05-28,Central,Desk,11,573.14,Store D,Retail,0.05,Diana,5989.313,Cash
+2023-11-30,East,Phone,20,519.04,Store B,Retail,0.15,Carlos,8823.68,Gift Card
+2023-06-22,West,Desk,14,30.83,Store B,Retail,0,Carlos,431.62,Online
+2025-06-05,West,Phone,10,319.05,Store D,Wholesale,0,Diana,3190.5,Online
+2023-03-03,Central,Chair,14,312.79,Store A,Retail,0.05,Bob,4160.107,Online
+2024-02-18,North,Laptop,14,395.45,Store C,Retail,0,Carlos,5536.3,Cash
+2023-08-06,Central,Laptop,12,472.72,Store D,Retail,0.15,Diana,4821.744,Credit Card
+2024-05-23,North,Desk,5,288.01,Store A,Wholesale,0,Eva,1440.05,Credit Card
+2023-10-23,East,Phone,13,562.29,Store D,Retail,0,Diana,7309.77,Gift Card
+2025-06-16,West,Phone,1,101.73,Store D,Retail,0,Frank,101.73,Debit Card
+2023-03-03,North,Phone,4,279.49,Store B,Retail,0,Diana,1117.96,Credit Card
+2024-11-18,South,Laptop,1,178.55,Store A,Retail,0.15,Carlos,151.7675,Debit Card
+2023-05-09,Central,Tablet,1,472.07,Store A,Wholesale,0.1,Carlos,424.863,Online
+2024-12-07,North,Tablet,12,306.29,Store D,Retail,0,Frank,3675.48,Debit Card
+2024-02-13,North,Phone,7,434.77,Store C,Retail,0.15,Frank,2586.8815,Online
+2025-03-09,South,Desk,6,64.98,Store C,Retail,0,Carlos,389.88,Debit Card
+2023-04-05,Central,Desk,17,476.49,Store D,Retail,0,Alice,8100.33,Gift Card
+2025-05-08,North,Monitor,4,559.72,Store D,Retail,0.15,Diana,1903.048,Online
+2023-09-03,North,Tablet,14,82.14,Store C,Retail,0,Alice,1149.96,Credit Card
+2025-03-21,Central,Chair,9,343.21,Store A,Retail,0.05,Carlos,2934.4455,Debit Card
+2025-06-20,South,Chair,7,301.01,Store B,Retail,0.15,Diana,1791.0095,Cash
+2024-02-15,Central,Printer,14,428.13,Store C,Retail,0.1,Bob,5394.438,Cash
+2023-06-09,Central,Laptop,2,503.28,Store D,Retail,0.15,Alice,855.576,Gift Card
+2023-08-10,South,Printer,5,470.32,Store A,Retail,0.1,Eva,2116.44,Debit Card
+2024-06-16,Central,Printer,20,65.17,Store C,Wholesale,0.05,Eva,1238.23,Gift Card
+2023-07-23,South,Laptop,12,36.17,Store A,Retail,0,Eva,434.04,Online
+2023-05-20,Central,Printer,4,459.31,Store D,Wholesale,0.15,Carlos,1561.654,Gift Card
+2023-06-30,South,Laptop,2,416.06,Store D,Retail,0.05,Eva,790.514,Debit Card
+2024-06-04,South,Tablet,16,302.58,Store D,Retail,0,Alice,4841.28,Online
+2025-02-03,West,Chair,11,33.13,Store A,Retail,0.15,Frank,309.7655,Online
+2024-01-09,East,Tablet,8,582.52,Store D,Retail,0.15,Frank,3961.136,Gift Card
+2024-03-14,North,Desk,5,165.15,Store A,Retail,0.1,Eva,743.175,Gift Card
+2024-09-06,West,Monitor,14,242.82,Store D,Wholesale,0.15,Alice,2889.558,Cash
+2023-03-17,East,Monitor,13,65.99,Store A,Wholesale,0.1,Frank,772.083,Cash
+2025-01-17,West,Chair,2,251.69,Store C,Wholesale,0,Alice,503.38,Debit Card
+2024-09-12,South,Laptop,1,269.41,Store B,Wholesale,0.1,Eva,242.469,Cash
+2024-01-05,South,Monitor,2,371.3,Store B,Wholesale,0.05,Bob,705.47,Credit Card
+2024-04-19,West,Tablet,11,288.24,Store A,Wholesale,0.15,Diana,2695.044,Online
+2025-06-11,Central,Tablet,11,232.75,Store D,Wholesale,0.05,Eva,2432.2375,Credit Card
+2025-03-06,East,Phone,17,146.28,Store B,Retail,0.15,Carlos,2113.746,Cash
+2023-05-24,East,Chair,5,100.38,Store C,Retail,0.1,Eva,451.71,Gift Card
+2023-01-27,South,Phone,11,375.48,Store B,Retail,0.05,Bob,3923.766,Debit Card
+2024-03-21,South,Laptop,18,316.89,Store B,Wholesale,0.05,Bob,5418.819,Cash
+2025-01-25,West,Laptop,20,295.06,Store D,Retail,0.15,Frank,5016.02,Online
+2023-06-12,Central,Phone,8,301.68,Store D,Retail,0,Eva,2413.44,Cash
+2025-03-22,Central,Chair,3,475.39,Store B,Retail,0.1,Alice,1283.553,Gift Card
+2024-02-24,Central,Desk,16,47.25,Store D,Retail,0.15,Bob,642.6,Debit Card
+2023-12-09,South,Chair,15,511.17,Store B,Wholesale,0,Frank,7667.55,Online
+2023-10-01,Central,Monitor,3,66.58,Store B,Retail,0.1,Frank,179.766,Debit Card
+2023-07-31,West,Tablet,5,490.52,Store D,Wholesale,0.05,Frank,2329.97,Online
+2024-12-24,South,Chair,8,405.96,Store A,Wholesale,0.05,Carlos,3085.296,Credit Card
+2024-11-15,North,Phone,1,159.41,Store B,Retail,0.1,Bob,143.469,Credit Card
+2025-03-13,West,Monitor,16,38.49,Store C,Retail,0.15,Carlos,523.464,Debit Card
+2024-03-03,East,Tablet,15,328.36,Store D,Retail,0.15,Alice,4186.59,Gift Card
+2023-02-11,Central,Tablet,20,548.01,Store A,Wholesale,0.1,Eva,9864.18,Credit Card
+2023-10-26,South,Desk,13,484.45,Store B,Wholesale,0.05,Carlos,5982.9575,Gift Card
+2023-10-21,South,Monitor,13,195.84,Store A,Wholesale,0.05,Alice,2418.624,Credit Card
+2024-01-14,Central,Tablet,19,29.94,Store D,Retail,0.15,Diana,483.531,Debit Card
+2023-07-27,Central,Desk,10,553.91,Store D,Wholesale,0.1,Eva,4985.19,Online
+2024-10-23,South,Phone,14,445.52,Store B,Retail,0.1,Bob,5613.552,Online
+2023-09-26,South,Chair,5,551.58,Store B,Retail,0.15,Alice,2344.215,Online
+2023-12-16,East,Phone,13,241.4,Store D,Retail,0,Carlos,3138.2,Gift Card
+2024-01-02,Central,Printer,19,351.93,Store A,Wholesale,0,Alice,6686.67,Credit Card
+2024-02-16,North,Phone,4,83.75,Store A,Retail,0.05,Alice,318.25,Debit Card
+2024-05-03,East,Monitor,5,416.95,Store A,Wholesale,0.15,Frank,1772.0375,Online
+2023-05-27,West,Monitor,18,142.43,Store C,Retail,0.05,Bob,2435.553,Credit Card
+2023-01-05,East,Desk,12,582.52,Store A,Wholesale,0,Bob,6990.24,Credit Card
+2025-05-21,East,Chair,20,129.56,Store A,Retail,0.15,Diana,2202.52,Online
+2023-07-21,Central,Tablet,17,431.82,Store B,Retail,0,Eva,7340.94,Gift Card
+2025-05-25,East,Laptop,15,15.85,Store C,Retail,0,Bob,237.75,Debit Card
+2024-11-16,South,Tablet,20,548.34,Store B,Retail,0.1,Bob,9870.12,Gift Card
+2023-11-19,North,Laptop,16,525.83,Store C,Wholesale,0.05,Frank,7992.616,Online
+2025-01-12,Central,Laptop,15,411.38,Store A,Wholesale,0.05,Bob,5862.165,Online
+2023-03-29,North,Monitor,19,559.95,Store A,Wholesale,0.1,Carlos,9575.145,Credit Card
+2025-03-01,North,Desk,8,179.9,Store C,Retail,0.05,Carlos,1367.24,Online
+2023-10-18,North,Chair,12,494.15,Store B,Wholesale,0.15,Diana,5040.33,Online
+2025-04-13,East,Desk,10,462.99,Store C,Wholesale,0,Bob,4629.9,Credit Card
+2025-05-13,Central,Laptop,7,460.24,Store A,Retail,0.05,Alice,3060.596,Cash
+2024-04-21,West,Printer,17,309.52,Store B,Wholesale,0.05,Eva,4998.748,Online
+2025-01-31,Central,Monitor,1,323.83,Store B,Wholesale,0.05,Eva,307.6385,Credit Card
+2025-03-14,Central,Chair,10,503.07,Store C,Retail,0,Bob,5030.7,Credit Card
+2024-05-26,West,Laptop,20,491.68,Store D,Wholesale,0.15,Alice,8358.56,Online
+2023-07-22,North,Phone,17,468.45,Store A,Retail,0.05,Carlos,7565.4675,Credit Card
+2024-03-21,North,Laptop,11,401.76,Store D,Retail,0.15,Frank,3756.456,Gift Card
+2023-04-05,West,Printer,3,221,Store B,Wholesale,0,Frank,663,Cash
+2024-08-26,East,Monitor,6,188.45,Store C,Wholesale,0.05,Alice,1074.165,Gift Card
+2024-07-07,North,Desk,3,566.2,Store D,Retail,0,Bob,1698.6,Gift Card
+2023-09-29,East,Monitor,14,167.09,Store D,Retail,0.05,Alice,2222.297,Gift Card
+2023-10-04,West,Monitor,16,36.16,Store C,Wholesale,0.1,Carlos,520.704,Debit Card
+2025-06-09,Central,Printer,2,73.94,Store B,Wholesale,0.05,Carlos,140.486,Debit Card
+2025-06-12,East,Printer,16,459.49,Store A,Wholesale,0.1,Eva,6616.656,Online
+2024-06-29,East,Chair,3,168.05,Store A,Retail,0,Carlos,504.15,Cash
+2024-03-23,North,Printer,14,37.54,Store B,Retail,0.15,Alice,446.726,Credit Card
+2024-07-14,South,Tablet,4,151.16,Store B,Wholesale,0,Alice,604.64,Gift Card
+2024-03-15,South,Tablet,17,78.58,Store A,Wholesale,0.1,Bob,1202.274,Gift Card
+2025-04-19,Central,Chair,15,37.33,Store B,Retail,0.05,Carlos,531.9525,Cash
+2024-02-15,West,Tablet,18,537.02,Store A,Wholesale,0.15,Carlos,8216.406,Debit Card
+2024-01-25,East,Desk,5,215.6,Store C,Wholesale,0,Frank,1078,Online
+2025-04-15,Central,Laptop,18,209.5,Store D,Wholesale,0,Carlos,3771,Credit Card
+2025-04-15,Central,Chair,8,348.98,Store A,Retail,0.1,Frank,2512.656,Online
+2024-08-11,West,Printer,2,289.14,Store C,Retail,0.05,Diana,549.366,Online
+2023-12-01,South,Desk,5,396.93,Store B,Wholesale,0,Diana,1984.65,Credit Card
+2023-08-06,Central,Laptop,10,508.57,Store D,Retail,0.05,Bob,4831.415,Online
+2024-01-24,Central,Laptop,11,259.61,Store C,Wholesale,0.1,Carlos,2570.139,Cash
+2024-03-07,Central,Chair,9,313.29,Store D,Retail,0,Carlos,2819.61,Online
+2024-01-22,South,Tablet,5,106.57,Store C,Wholesale,0.1,Carlos,479.565,Debit Card
+2023-02-23,East,Printer,1,109,Store B,Retail,0.15,Frank,92.65,Cash
+2023-06-14,North,Tablet,8,323.8,Store B,Retail,0,Diana,2590.4,Cash
+2025-05-13,North,Laptop,16,384.32,Store A,Retail,0.05,Frank,5841.664,Cash
+2024-07-30,Central,Printer,16,163.86,Store C,Retail,0.15,Diana,2228.496,Gift Card
+2024-07-18,East,Tablet,5,23.41,Store B,Wholesale,0,Frank,117.05,Credit Card
+2024-08-26,East,Printer,20,488.9,Store C,Wholesale,0.15,Eva,8311.3,Gift Card
+2025-06-08,West,Tablet,7,452.56,Store A,Wholesale,0.05,Frank,3009.524,Gift Card
+2025-05-16,North,Desk,11,465.24,Store A,Wholesale,0,Carlos,5117.64,Debit Card
+2024-07-18,East,Phone,14,442.65,Store B,Retail,0,Eva,6197.1,Gift Card
+2023-09-17,West,Laptop,12,469.44,Store B,Wholesale,0,Bob,5633.28,Online
+2023-03-13,East,Monitor,14,248.77,Store C,Wholesale,0.05,Bob,3308.641,Debit Card
+2023-03-29,South,Chair,4,565.29,Store D,Wholesale,0.05,Alice,2148.102,Cash
+2023-07-14,Central,Desk,12,244.8,Store B,Wholesale,0.05,Frank,2790.72,Online
+2024-03-22,West,Laptop,13,290.93,Store C,Retail,0.05,Diana,3592.9855,Credit Card
+2024-05-14,Central,Laptop,11,229.49,Store C,Retail,0.1,Bob,2271.951,Cash
+2023-05-30,Central,Monitor,2,427.36,Store A,Wholesale,0.05,Diana,811.984,Online
+2023-03-19,North,Phone,2,443.51,Store C,Wholesale,0.05,Alice,842.669,Cash
+2023-08-09,Central,Desk,13,280.63,Store B,Wholesale,0.15,Alice,3100.9615,Credit Card
+2024-10-13,North,Chair,13,416.66,Store B,Wholesale,0.15,Bob,4604.093,Credit Card
+2025-02-17,East,Chair,11,589.48,Store B,Retail,0,Alice,6484.28,Online
+2025-06-11,North,Phone,18,152.84,Store C,Retail,0.15,Diana,2338.452,Debit Card
+2024-04-29,Central,Tablet,4,163.66,Store B,Retail,0,Bob,654.64,Gift Card
+2023-03-18,West,Laptop,19,484.25,Store C,Wholesale,0.15,Bob,7820.6375,Debit Card
+2024-12-21,North,Chair,9,380.4,Store B,Retail,0.1,Carlos,3081.24,Credit Card
+2023-04-23,West,Chair,17,332.38,Store A,Retail,0.1,Frank,5085.414,Credit Card
+2025-05-11,Central,Chair,15,210.94,Store C,Wholesale,0.05,Frank,3005.895,Online
+2024-03-03,South,Phone,9,382.8,Store D,Wholesale,0,Eva,3445.2,Cash
+2025-01-20,North,Monitor,3,386.29,Store C,Retail,0.15,Carlos,985.0395,Credit Card
+2025-03-22,North,Tablet,5,225.99,Store C,Retail,0,Eva,1129.95,Online
+2025-03-28,South,Printer,20,312.56,Store D,Retail,0.15,Frank,5313.52,Gift Card
+2025-02-17,North,Phone,13,433.77,Store C,Wholesale,0.05,Frank,5357.0595,Cash
+2024-11-08,South,Tablet,20,159.33,Store A,Wholesale,0,Eva,3186.6,Online
+2024-03-17,South,Phone,18,32.23,Store B,Retail,0.05,Bob,551.133,Credit Card
+2023-08-29,South,Monitor,3,527.77,Store C,Retail,0.1,Bob,1424.979,Cash
+2023-06-22,South,Chair,14,291.09,Store A,Retail,0,Carlos,4075.26,Cash
+2024-02-24,South,Phone,8,350.12,Store C,Retail,0,Alice,2800.96,Gift Card
+2024-04-10,North,Phone,10,195.26,Store D,Retail,0.05,Alice,1854.97,Credit Card
+2023-05-14,South,Monitor,13,291.1,Store A,Wholesale,0,Alice,3784.3,Online
+2023-03-11,South,Monitor,6,93.92,Store B,Wholesale,0.15,Eva,478.992,Credit Card
+2024-08-24,Central,Printer,5,15.92,Store D,Retail,0,Eva,79.6,Credit Card
+2024-02-23,South,Monitor,16,120.22,Store D,Retail,0.15,Bob,1634.992,Cash
+2024-01-30,North,Monitor,11,118.8,Store A,Retail,0.05,Eva,1241.46,Online
+2024-01-23,East,Tablet,10,92.45,Store C,Wholesale,0.1,Frank,832.05,Cash
+2023-01-05,North,Laptop,19,463.51,Store B,Retail,0,Bob,8806.69,Cash
+2023-12-21,North,Desk,7,284.7,Store D,Wholesale,0.05,Bob,1893.255,Gift Card
+2023-05-25,West,Laptop,20,343.25,Store C,Wholesale,0.05,Alice,6521.75,Debit Card
+2025-06-30,Central,Chair,6,95.24,Store D,Wholesale,0.15,Diana,485.724,Gift Card
+2025-02-12,West,Desk,13,104.8,Store B,Retail,0.05,Diana,1294.28,Credit Card
+2024-01-03,West,Tablet,12,164.31,Store B,Wholesale,0.1,Eva,1774.548,Cash
+2023-02-03,South,Tablet,10,325.18,Store C,Wholesale,0.1,Alice,2926.62,Cash
+2024-03-01,East,Monitor,17,542.82,Store A,Wholesale,0,Alice,9227.94,Debit Card
+2023-05-24,North,Tablet,14,207.48,Store C,Wholesale,0.05,Eva,2759.484,Online
+2025-06-22,North,Printer,17,527.88,Store D,Retail,0.05,Bob,8525.262,Cash
+2023-04-10,North,Chair,11,71.21,Store B,Retail,0.05,Diana,744.1445,Online
+2025-03-04,Central,Printer,8,486.07,Store B,Retail,0,Carlos,3888.56,Debit Card
+2024-07-11,East,Laptop,6,555.03,Store C,Retail,0.1,Frank,2997.162,Credit Card
+2024-08-17,East,Desk,13,421.08,Store B,Wholesale,0,Bob,5474.04,Cash
+2025-06-30,North,Laptop,16,76.17,Store D,Wholesale,0.1,Alice,1096.848,Cash
+2024-11-06,South,Printer,3,503.55,Store C,Wholesale,0.1,Bob,1359.585,Credit Card
+2025-04-01,East,Tablet,5,31.56,Store D,Retail,0,Diana,157.8,Online
+2024-07-01,West,Laptop,16,72.92,Store C,Wholesale,0.05,Frank,1108.384,Cash
+2023-12-09,West,Printer,18,421.93,Store D,Retail,0.05,Bob,7215.003,Gift Card
+2023-06-27,North,Desk,15,478.41,Store B,Retail,0.1,Carlos,6458.535,Debit Card
+2023-07-14,South,Chair,9,501.74,Store D,Retail,0,Bob,4515.66,Online
+2023-02-08,South,Tablet,7,247.53,Store C,Wholesale,0.15,Alice,1472.8035,Gift Card
+2024-06-28,West,Tablet,6,176.51,Store C,Wholesale,0.15,Carlos,900.201,Debit Card
+2024-04-15,West,Laptop,2,143.43,Store D,Wholesale,0,Bob,286.86,Credit Card
+2023-11-27,East,Monitor,12,538.5,Store C,Wholesale,0.05,Alice,6138.9,Cash
+2025-03-27,East,Printer,5,87.17,Store D,Wholesale,0,Carlos,435.85,Debit Card
+2023-08-06,South,Monitor,7,498.32,Store B,Wholesale,0.1,Alice,3139.416,Credit Card
+2024-12-13,South,Printer,15,57.14,Store B,Wholesale,0.15,Carlos,728.535,Debit Card
+2025-01-17,Central,Tablet,18,124.18,Store B,Wholesale,0.15,Carlos,1899.954,Debit Card
+2023-11-26,West,Desk,12,107.45,Store C,Retail,0.1,Bob,1160.46,Online
+2023-02-14,East,Chair,8,411.26,Store A,Retail,0.1,Frank,2961.072,Gift Card
+2025-02-02,Central,Printer,7,248.1,Store C,Retail,0,Diana,1736.7,Cash
+2023-04-11,West,Printer,3,486.52,Store B,Wholesale,0.1,Carlos,1313.604,Gift Card
+2024-07-08,North,Monitor,18,415.04,Store C,Wholesale,0.1,Eva,6723.648,Cash
+2023-02-08,Central,Printer,19,165.38,Store B,Wholesale,0.15,Alice,2670.887,Online
+2024-04-09,West,Desk,2,117.47,Store C,Wholesale,0,Eva,234.94,Credit Card
+2023-08-14,Central,Printer,9,461.79,Store C,Wholesale,0.15,Frank,3532.6935,Gift Card
+2024-09-02,West,Tablet,19,208.72,Store D,Retail,0.05,Frank,3767.396,Credit Card
+2025-06-29,Central,Monitor,16,278.13,Store A,Wholesale,0.15,Alice,3782.568,Cash
+2025-04-02,West,Laptop,2,580.19,Store B,Wholesale,0.05,Diana,1102.361,Debit Card
+2023-04-27,Central,Tablet,8,536.43,Store B,Retail,0,Carlos,4291.44,Cash
+2024-08-07,East,Phone,1,94.33,Store A,Wholesale,0,Carlos,94.33,Online
+2023-04-15,West,Laptop,16,489.94,Store C,Retail,0.1,Frank,7055.136,Cash
+2023-08-12,South,Desk,4,551.71,Store A,Retail,0.05,Eva,2096.498,Gift Card
+2023-06-19,West,Printer,17,595.57,Store D,Retail,0.15,Bob,8605.9865,Credit Card
+2023-12-29,East,Printer,1,180.12,Store A,Wholesale,0.1,Eva,162.108,Debit Card
+2023-03-26,East,Desk,12,301.5,Store D,Retail,0.15,Bob,3075.3,Credit Card
+2023-09-01,South,Phone,20,273.55,Store D,Retail,0.15,Frank,4650.35,Debit Card
+2024-08-05,West,Tablet,6,187.06,Store B,Wholesale,0.1,Frank,1010.124,Debit Card
+2025-01-23,North,Chair,16,562.52,Store D,Retail,0,Frank,9000.32,Gift Card
+2023-05-16,East,Tablet,4,85.16,Store D,Wholesale,0.1,Carlos,306.576,Credit Card
+2023-02-14,North,Tablet,12,451.51,Store B,Wholesale,0.15,Carlos,4605.402,Online
+2024-06-03,Central,Tablet,1,259.87,Store D,Retail,0.15,Eva,220.8895,Gift Card
+2023-11-08,Central,Tablet,20,268.25,Store D,Retail,0.05,Diana,5096.75,Cash
+2023-01-24,West,Phone,10,266.13,Store B,Wholesale,0,Diana,2661.3,Gift Card
+2025-03-20,West,Laptop,18,493.06,Store D,Wholesale,0.05,Diana,8431.326,Cash
+2024-02-22,West,Monitor,4,36.82,Store C,Wholesale,0.05,Frank,139.916,Credit Card
+2025-04-02,North,Printer,12,413.45,Store D,Retail,0.15,Bob,4217.19,Cash
+2025-06-12,North,Chair,19,446.25,Store B,Retail,0.1,Eva,7630.875,Gift Card
+2023-05-13,East,Laptop,7,82.77,Store D,Wholesale,0.15,Frank,492.4815,Debit Card
+2023-03-25,South,Desk,17,339.88,Store A,Retail,0,Alice,5777.96,Cash
+2024-11-22,South,Printer,19,364.32,Store B,Retail,0.15,Frank,5883.768,Debit Card
+2023-07-07,East,Tablet,3,71.91,Store B,Wholesale,0,Alice,215.73,Gift Card
+2024-10-05,East,Tablet,20,576.3,Store D,Wholesale,0.05,Eva,10949.7,Credit Card
+2024-03-31,West,Laptop,7,120.6,Store B,Wholesale,0,Diana,844.2,Online
+2025-04-01,West,Printer,8,96.19,Store A,Wholesale,0.05,Carlos,731.044,Debit Card
+2023-08-23,West,Printer,14,471.17,Store A,Wholesale,0.05,Carlos,6266.561,Gift Card
+2024-08-14,South,Phone,20,14.33,Store D,Wholesale,0.1,Carlos,257.94,Debit Card
+2025-02-14,Central,Tablet,18,499.61,Store B,Retail,0.15,Alice,7644.033,Debit Card
+2023-11-11,West,Monitor,14,16.33,Store B,Wholesale,0.1,Diana,205.758,Debit Card
+2024-04-01,Central,Desk,17,480.62,Store C,Wholesale,0.15,Carlos,6944.959,Online
+2024-06-13,South,Chair,5,555.84,Store C,Retail,0.05,Diana,2640.24,Credit Card
+2023-11-28,North,Chair,18,174.03,Store B,Wholesale,0.1,Frank,2819.286,Online
+2024-11-11,Central,Desk,11,286.05,Store A,Retail,0.1,Bob,2831.895,Debit Card
+2024-11-04,North,Desk,16,40.73,Store D,Retail,0,Alice,651.68,Credit Card
+2023-01-01,Central,Chair,11,468.22,Store D,Retail,0,Carlos,5150.42,Debit Card
+2025-01-18,North,Tablet,1,411.54,Store C,Retail,0.1,Eva,370.386,Gift Card
+2023-05-02,Central,Printer,13,134.2,Store A,Wholesale,0.05,Eva,1657.37,Credit Card
+2025-05-27,West,Printer,10,351.23,Store B,Retail,0.15,Frank,2985.455,Online
+2024-12-27,South,Monitor,14,551.14,Store C,Wholesale,0.1,Diana,6944.364,Online
+2025-03-18,West,Chair,2,131.13,Store B,Retail,0.1,Eva,236.034,Debit Card
+2024-03-24,East,Laptop,6,595.11,Store C,Wholesale,0,Diana,3570.66,Cash
+2024-12-26,East,Laptop,6,516.66,Store C,Wholesale,0.05,Bob,2944.962,Online
+2023-01-11,North,Desk,6,202.57,Store D,Retail,0.05,Eva,1154.649,Gift Card
+2025-06-01,South,Laptop,13,306.16,Store A,Wholesale,0.15,Frank,3383.068,Cash
+2024-09-26,East,Desk,11,472.74,Store D,Retail,0.15,Carlos,4420.119,Credit Card
+2024-08-10,East,Phone,20,337.37,Store C,Retail,0.1,Diana,6072.66,Gift Card
+2025-03-02,South,Phone,12,34.24,Store C,Retail,0.1,Frank,369.792,Cash
+2023-02-21,East,Tablet,4,477.05,Store B,Wholesale,0,Carlos,1908.2,Credit Card
+2024-11-20,East,Laptop,6,562.93,Store C,Retail,0,Alice,3377.58,Credit Card
+2023-08-26,East,Chair,20,18.29,Store B,Retail,0,Diana,365.8,Debit Card
+2024-01-01,South,Monitor,7,208.86,Store B,Retail,0,Frank,1462.02,Cash
+2024-11-24,South,Printer,12,330.36,Store D,Retail,0.05,Diana,3766.104,Cash
+2024-08-25,South,Tablet,7,50.26,Store C,Retail,0.15,Diana,299.047,Cash
+2023-06-10,South,Laptop,2,374.59,Store C,Wholesale,0.15,Carlos,636.803,Online
+2024-12-18,North,Printer,7,467.6,Store A,Retail,0.1,Carlos,2945.88,Debit Card
+2023-08-28,East,Chair,3,376.24,Store A,Retail,0.05,Frank,1072.284,Debit Card
+2023-01-22,West,Phone,13,140.49,Store A,Retail,0,Eva,1826.37,Debit Card
+2023-02-07,North,Monitor,3,506.33,Store B,Retail,0.15,Frank,1291.1415,Debit Card
+2023-11-22,South,Monitor,8,138.73,Store A,Wholesale,0.05,Frank,1054.348,Online
+2023-01-25,West,Desk,6,134.53,Store C,Retail,0.15,Carlos,686.103,Debit Card
+2025-03-05,South,Tablet,18,375.96,Store D,Wholesale,0.05,Diana,6428.916,Debit Card
+2023-02-02,North,Printer,10,538.47,Store D,Retail,0.1,Bob,4846.23,Gift Card
+2023-05-24,North,Tablet,15,505.44,Store A,Wholesale,0.1,Alice,6823.44,Online
+2024-05-30,South,Printer,4,312.09,Store C,Wholesale,0.15,Diana,1061.106,Debit Card
+2024-01-23,West,Desk,15,579.58,Store C,Retail,0.15,Eva,7389.645,Credit Card
+2023-02-06,North,Chair,10,217.43,Store A,Retail,0.15,Bob,1848.155,Credit Card
+2024-07-15,West,Phone,15,476.15,Store B,Wholesale,0.05,Carlos,6785.1375,Online
+2025-03-06,East,Chair,5,89.03,Store C,Wholesale,0.1,Frank,400.635,Debit Card
+2023-07-29,Central,Phone,17,6.88,Store A,Retail,0.1,Frank,105.264,Gift Card
+2023-07-26,North,Printer,6,355.26,Store D,Retail,0.1,Bob,1918.404,Online
+2024-04-10,West,Tablet,8,294.76,Store C,Retail,0.1,Diana,2122.272,Online
+2025-01-24,North,Desk,16,60.69,Store A,Wholesale,0,Carlos,971.04,Credit Card
+2025-04-27,West,Laptop,2,559.63,Store B,Wholesale,0.1,Diana,1007.334,Credit Card
+2025-02-20,East,Phone,4,232.66,Store B,Wholesale,0.1,Frank,837.576,Online
+2023-09-14,North,Printer,10,230.87,Store A,Retail,0.15,Bob,1962.395,Debit Card
+2024-04-17,West,Tablet,7,353.9,Store C,Wholesale,0.15,Alice,2105.705,Debit Card
+2024-11-14,Central,Tablet,12,561.07,Store A,Retail,0,Alice,6732.84,Gift Card
+2024-07-25,North,Chair,15,247.21,Store D,Wholesale,0.1,Bob,3337.335,Gift Card
+2024-08-05,East,Phone,19,271.22,Store A,Wholesale,0.1,Alice,4637.862,Credit Card
+2025-01-23,West,Laptop,6,532.54,Store A,Wholesale,0,Diana,3195.24,Debit Card
+2025-04-27,West,Printer,16,329.54,Store A,Wholesale,0.15,Bob,4481.744,Debit Card
+2024-09-20,South,Phone,6,170.1,Store A,Retail,0,Eva,1020.6,Gift Card
+2023-09-08,West,Laptop,19,212.83,Store D,Wholesale,0.15,Carlos,3437.2045,Online
+2025-04-20,South,Laptop,5,578.92,Store A,Wholesale,0,Bob,2894.6,Credit Card
+2024-06-20,North,Phone,3,456.92,Store C,Retail,0.1,Frank,1233.684,Gift Card
+2023-01-11,East,Tablet,12,521.53,Store D,Retail,0,Eva,6258.36,Credit Card
+2023-07-04,North,Desk,17,468.19,Store D,Retail,0.05,Diana,7561.2685,Cash
+2025-03-08,Central,Monitor,9,8.81,Store D,Retail,0.15,Alice,67.3965,Online
+2025-02-10,South,Chair,6,521.1,Store A,Wholesale,0.15,Frank,2657.61,Cash
+2025-03-17,West,Monitor,10,289.91,Store C,Retail,0.1,Diana,2609.19,Cash
+2023-11-09,East,Printer,3,142.27,Store D,Retail,0.05,Bob,405.4695,Online
+2023-11-30,Central,Printer,15,354.09,Store B,Retail,0.05,Carlos,5045.7825,Online
+2024-08-15,South,Tablet,20,358.57,Store B,Wholesale,0,Alice,7171.4,Debit Card
+2023-03-21,West,Tablet,16,33.18,Store C,Retail,0.05,Eva,504.336,Online
+2023-10-26,West,Monitor,2,124.4,Store B,Retail,0,Eva,248.8,Online
+2023-11-03,West,Phone,12,17.76,Store D,Retail,0.1,Carlos,191.808,Online
+2025-01-30,North,Chair,16,345.53,Store C,Retail,0.15,Frank,4699.208,Gift Card
+2024-01-25,West,Laptop,13,453.48,Store A,Wholesale,0.05,Alice,5600.478,Gift Card
+2025-03-29,South,Laptop,10,277.74,Store B,Retail,0.15,Carlos,2360.79,Gift Card
+2024-11-02,Central,Chair,16,89.76,Store A,Wholesale,0,Alice,1436.16,Debit Card
+2024-06-30,Central,Chair,11,535.37,Store D,Wholesale,0,Frank,5889.07,Cash
+2023-01-11,South,Tablet,9,15.58,Store D,Retail,0.1,Frank,126.198,Gift Card
+2025-06-05,North,Desk,13,466.54,Store C,Wholesale,0,Eva,6065.02,Cash
+2024-03-21,North,Monitor,16,593,Store D,Retail,0.1,Eva,8539.2,Gift Card
+2023-08-31,South,Desk,6,567.36,Store C,Wholesale,0.05,Alice,3233.952,Gift Card
+2024-10-07,South,Phone,17,523.04,Store A,Retail,0.05,Eva,8447.096,Debit Card
+2023-04-12,North,Laptop,17,376.4,Store C,Wholesale,0,Alice,6398.8,Debit Card
+2023-11-06,South,Printer,5,95.19,Store A,Retail,0.15,Frank,404.5575,Credit Card
+2023-04-28,West,Desk,2,210.71,Store D,Wholesale,0.15,Diana,358.207,Credit Card
+2023-12-18,West,Printer,7,393.39,Store B,Retail,0.1,Alice,2478.357,Cash
+2024-10-10,South,Phone,13,114.03,Store A,Retail,0,Bob,1482.39,Cash
+2023-02-05,North,Tablet,18,336.48,Store B,Retail,0,Frank,6056.64,Online
+2024-08-04,Central,Monitor,9,24.44,Store C,Wholesale,0.15,Eva,186.966,Gift Card
+2024-10-23,Central,Tablet,12,352.2,Store A,Retail,0.05,Eva,4015.08,Credit Card
+2024-02-13,West,Monitor,7,353.99,Store C,Wholesale,0.05,Carlos,2354.0335,Gift Card
+2024-06-03,South,Tablet,15,10.22,Store C,Retail,0,Alice,153.3,Gift Card
+2023-04-14,South,Printer,17,464.16,Store A,Retail,0.15,Carlos,6707.112,Debit Card
+2024-10-19,Central,Laptop,16,436.31,Store C,Retail,0.05,Diana,6631.912,Online
+2023-12-18,South,Laptop,9,219.93,Store B,Wholesale,0.05,Bob,1880.4015,Gift Card
+2023-08-31,North,Laptop,5,311.22,Store A,Wholesale,0.15,Diana,1322.685,Cash
+2023-09-19,South,Laptop,4,547.56,Store D,Retail,0.15,Frank,1861.704,Gift Card
+2023-02-27,Central,Laptop,9,52.69,Store D,Retail,0.15,Diana,403.0785,Online
+2024-01-28,South,Tablet,9,434.74,Store D,Wholesale,0.1,Bob,3521.394,Online
+2025-05-06,South,Monitor,9,124.17,Store C,Wholesale,0,Eva,1117.53,Debit Card
+2024-09-13,East,Monitor,2,375.48,Store D,Retail,0.05,Diana,713.412,Credit Card
+2023-05-25,East,Printer,13,211.06,Store B,Retail,0.1,Bob,2469.402,Gift Card
+2024-09-26,South,Tablet,7,88.87,Store C,Retail,0,Alice,622.09,Online
+2023-02-13,South,Phone,5,254.24,Store B,Wholesale,0.05,Bob,1207.64,Online
+2024-06-20,Central,Chair,5,432.35,Store C,Wholesale,0.1,Bob,1945.575,Gift Card
+2024-03-22,West,Laptop,19,590,Store D,Retail,0.05,Alice,10649.5,Online
+2024-02-08,West,Monitor,11,151.25,Store B,Wholesale,0.1,Frank,1497.375,Credit Card
+2024-06-01,East,Desk,3,204.79,Store B,Retail,0.1,Frank,552.933,Online
+2024-05-26,North,Laptop,16,586.52,Store C,Wholesale,0,Diana,9384.32,Credit Card
+2024-06-25,East,Printer,16,104.83,Store A,Wholesale,0,Carlos,1677.28,Gift Card
+2024-01-29,Central,Printer,16,598.48,Store A,Retail,0.1,Frank,8618.112,Cash
+2024-12-07,South,Chair,8,367.89,Store B,Retail,0.05,Alice,2795.964,Cash
+2023-11-21,West,Chair,10,333.35,Store A,Retail,0.15,Alice,2833.475,Debit Card
+2024-12-16,North,Chair,8,378.88,Store A,Wholesale,0.1,Frank,2727.936,Debit Card
+2023-08-05,Central,Monitor,12,169.2,Store C,Retail,0.05,Diana,1928.88,Gift Card
+2023-08-30,Central,Chair,7,103.03,Store D,Retail,0.1,Bob,649.089,Online
+2025-03-25,East,Printer,3,378.74,Store D,Wholesale,0.15,Frank,965.787,Online
+2024-12-13,North,Phone,15,27.21,Store C,Wholesale,0,Alice,408.15,Online
+2023-09-07,Central,Phone,14,52.09,Store A,Retail,0,Bob,729.26,Gift Card
+2023-12-12,North,Monitor,7,570.01,Store C,Wholesale,0,Carlos,3990.07,Credit Card
+2024-04-25,East,Monitor,19,526.23,Store B,Retail,0,Bob,9998.37,Credit Card
+2025-05-04,North,Laptop,8,294.51,Store A,Wholesale,0.15,Diana,2002.668,Gift Card
+2023-09-16,South,Monitor,18,448.27,Store C,Wholesale,0.05,Diana,7665.417,Credit Card
+2024-10-23,West,Desk,17,583.88,Store D,Retail,0.1,Alice,8933.364,Credit Card
+2023-05-03,North,Desk,2,97.5,Store D,Retail,0.1,Alice,175.5,Cash
+2025-03-18,North,Printer,16,420.79,Store B,Wholesale,0.15,Carlos,5722.744,Cash
+2023-08-25,West,Chair,13,513.18,Store B,Retail,0,Eva,6671.34,Credit Card
+2023-07-13,North,Monitor,19,475.64,Store C,Retail,0.1,Frank,8133.444,Cash
+2025-02-25,North,Tablet,13,238.34,Store C,Retail,0.1,Carlos,2788.578,Credit Card
+2025-04-14,Central,Laptop,14,285.03,Store B,Wholesale,0.1,Eva,3591.378,Credit Card
+2025-06-15,Central,Desk,5,5.52,Store C,Retail,0.05,Alice,26.22,Credit Card
+2024-10-22,North,Monitor,18,396.25,Store D,Retail,0.1,Frank,6419.25,Credit Card
+2023-06-20,South,Laptop,9,282.8,Store D,Wholesale,0.05,Eva,2417.94,Online
+2025-03-05,South,Phone,6,525.43,Store C,Wholesale,0.05,Alice,2994.951,Credit Card
+2023-10-28,West,Tablet,15,127.67,Store D,Retail,0.1,Alice,1723.545,Debit Card
+2025-03-19,Central,Laptop,17,511.8,Store B,Retail,0.05,Carlos,8265.57,Credit Card
+2023-08-06,West,Tablet,4,555.86,Store C,Retail,0.05,Bob,2112.268,Cash
+2024-09-11,Central,Monitor,15,202.72,Store D,Retail,0.05,Eva,2888.76,Debit Card
+2025-01-08,Central,Chair,4,353.7,Store A,Wholesale,0,Frank,1414.8,Credit Card
+2024-08-12,Central,Chair,3,149.25,Store D,Wholesale,0,Carlos,447.75,Debit Card
+2023-03-30,North,Monitor,19,156.44,Store C,Wholesale,0.1,Alice,2675.124,Online
+2023-02-01,Central,Phone,7,241.76,Store D,Wholesale,0,Carlos,1692.32,Online
+2025-04-18,North,Laptop,20,170.49,Store A,Wholesale,0,Diana,3409.8,Online
+2025-03-29,Central,Monitor,11,149.67,Store C,Retail,0.1,Eva,1481.733,Credit Card
+2024-04-25,East,Tablet,1,173.56,Store D,Retail,0.1,Eva,156.204,Debit Card
+2024-09-22,South,Monitor,7,349.55,Store A,Retail,0.05,Carlos,2324.5075,Credit Card
+2023-08-05,Central,Tablet,9,245.14,Store B,Wholesale,0,Alice,2206.26,Online
+2024-06-07,South,Desk,1,423.08,Store B,Wholesale,0.05,Bob,401.926,Gift Card
+2025-05-24,East,Phone,19,337.82,Store B,Wholesale,0.15,Alice,5455.793,Online
+2024-07-18,South,Chair,10,252.63,Store B,Retail,0.15,Eva,2147.355,Cash
+2024-07-14,West,Tablet,3,87.02,Store B,Wholesale,0.1,Frank,234.954,Cash
+2023-04-14,Central,Tablet,11,6.72,Store D,Wholesale,0.05,Bob,70.224,Cash
+2023-06-01,South,Printer,2,279.38,Store D,Retail,0.1,Carlos,502.884,Online
+2025-04-17,Central,Phone,9,207.8,Store D,Retail,0.1,Alice,1683.18,Online
+2025-03-31,East,Printer,15,511.88,Store C,Wholesale,0.05,Bob,7294.29,Cash
+2024-07-15,East,Printer,10,325.97,Store D,Retail,0,Bob,3259.7,Cash
+2024-08-30,South,Laptop,17,469.32,Store B,Retail,0,Carlos,7978.44,Gift Card
+2025-01-07,Central,Phone,13,186.69,Store D,Wholesale,0,Bob,2426.97,Cash
+2025-02-05,South,Phone,16,34.66,Store C,Retail,0.05,Alice,526.832,Debit Card
+2024-04-01,North,Printer,18,155.04,Store B,Wholesale,0.15,Frank,2372.112,Cash
+2025-03-01,West,Monitor,4,69.6,Store D,Wholesale,0.05,Eva,264.48,Gift Card
+2023-07-03,Central,Monitor,13,55.09,Store A,Wholesale,0.15,Diana,608.7445,Cash
+2023-04-25,Central,Laptop,13,206.11,Store B,Retail,0.15,Bob,2277.5155,Gift Card
+2025-04-09,West,Tablet,14,484.38,Store D,Retail,0.05,Frank,6442.254,Debit Card
+2023-11-05,North,Monitor,6,449.57,Store D,Wholesale,0,Frank,2697.42,Gift Card
+2023-01-13,East,Laptop,9,223.01,Store C,Retail,0,Diana,2007.09,Cash
+2025-02-06,West,Chair,14,291.91,Store A,Retail,0.15,Frank,3473.729,Credit Card
+2023-05-20,South,Monitor,13,90.86,Store A,Wholesale,0,Carlos,1181.18,Gift Card
+2025-06-18,East,Desk,4,109.05,Store D,Wholesale,0,Diana,436.2,Gift Card
+2023-02-23,West,Tablet,12,245.6,Store D,Retail,0,Bob,2947.2,Cash
+2024-11-09,East,Printer,15,380.03,Store A,Retail,0,Bob,5700.45,Online
+2024-07-25,South,Tablet,3,417.58,Store D,Retail,0.05,Frank,1190.103,Gift Card
+2023-08-19,West,Laptop,15,432.17,Store D,Wholesale,0.15,Frank,5510.1675,Debit Card
+2023-11-13,South,Monitor,13,531.77,Store C,Retail,0.1,Bob,6221.709,Online
+2024-09-10,West,Tablet,13,442.99,Store A,Wholesale,0.05,Alice,5470.9265,Gift Card
+2024-08-30,Central,Chair,13,567.5,Store A,Retail,0,Eva,7377.5,Credit Card
+2024-11-10,East,Tablet,15,469.52,Store C,Wholesale,0,Alice,7042.8,Credit Card
+2023-04-13,East,Printer,1,396.09,Store D,Wholesale,0.15,Frank,336.6765,Credit Card
+2023-11-20,East,Laptop,12,195.73,Store C,Wholesale,0.05,Alice,2231.322,Cash
+2025-04-14,North,Printer,5,412.24,Store B,Wholesale,0.15,Carlos,1752.02,Cash
+2023-03-04,Central,Monitor,11,558.5,Store B,Retail,0.15,Carlos,5221.975,Cash
+2024-11-16,North,Laptop,4,175.34,Store C,Retail,0.15,Eva,596.156,Cash
+2024-05-25,South,Laptop,19,478.73,Store A,Retail,0,Frank,9095.87,Debit Card
+2023-04-12,East,Desk,5,365.38,Store D,Wholesale,0.15,Alice,1552.865,Debit Card
+2023-03-07,South,Desk,10,397.33,Store B,Retail,0.15,Alice,3377.305,Credit Card
+2024-01-05,Central,Chair,17,241.01,Store A,Retail,0.1,Bob,3687.453,Debit Card
+2024-10-31,West,Desk,17,82.2,Store C,Wholesale,0,Alice,1397.4,Cash
+2024-05-08,West,Monitor,16,170.77,Store C,Retail,0.1,Frank,2459.088,Online
+2024-03-05,Central,Monitor,1,8.2,Store C,Wholesale,0.15,Frank,6.97,Debit Card
+2023-07-18,North,Laptop,12,425.78,Store A,Retail,0.1,Bob,4598.424,Online
+2023-08-05,South,Printer,20,121.14,Store C,Retail,0.1,Bob,2180.52,Credit Card
+2023-09-18,West,Tablet,19,448.13,Store D,Wholesale,0,Alice,8514.47,Debit Card
+2023-03-27,South,Laptop,8,7.81,Store D,Wholesale,0.1,Frank,56.232,Online
+2023-03-08,East,Chair,19,191.44,Store C,Wholesale,0.15,Carlos,3091.756,Cash
+2024-05-02,West,Desk,5,245.2,Store B,Retail,0.15,Eva,1042.1,Online
+2023-09-16,North,Desk,17,163.37,Store B,Wholesale,0.15,Eva,2360.6965,Gift Card
+2023-06-13,South,Tablet,14,583.96,Store C,Retail,0,Diana,8175.44,Debit Card
+2023-11-05,North,Desk,16,181.08,Store C,Retail,0.1,Carlos,2607.552,Online
+2024-11-23,South,Tablet,8,414.94,Store A,Wholesale,0,Alice,3319.52,Debit Card
+2024-02-09,Central,Phone,16,442.22,Store B,Retail,0,Alice,7075.52,Cash
+2023-11-16,Central,Printer,14,595.39,Store A,Wholesale,0.1,Bob,7501.914,Credit Card
+2025-01-24,Central,Monitor,6,175.3,Store A,Wholesale,0.15,Alice,894.03,Cash
+2025-05-06,Central,Tablet,7,319.59,Store C,Wholesale,0.15,Carlos,1901.5605,Gift Card
+2025-05-17,East,Printer,15,506.81,Store A,Retail,0.15,Bob,6461.8275,Cash
+2023-11-29,Central,Laptop,17,538.08,Store A,Retail,0.05,Eva,8689.992,Debit Card
+2023-02-24,South,Chair,16,187.84,Store A,Retail,0,Alice,3005.44,Credit Card
+2023-11-04,South,Laptop,18,426.3,Store A,Wholesale,0.15,Carlos,6522.39,Credit Card
+2024-06-15,East,Desk,1,498.35,Store B,Retail,0.1,Alice,448.515,Online
+2024-10-02,North,Tablet,19,385.72,Store A,Retail,0.05,Carlos,6962.246,Cash
+2023-06-03,West,Tablet,3,54.37,Store B,Wholesale,0.1,Frank,146.799,Credit Card
+2023-09-10,East,Phone,6,471.74,Store C,Retail,0.15,Carlos,2405.874,Online
+2025-05-20,Central,Printer,19,322.31,Store B,Retail,0.15,Bob,5205.3065,Cash
+2023-09-24,North,Tablet,13,115.86,Store A,Wholesale,0.1,Diana,1355.562,Cash
+2025-03-29,East,Tablet,18,398.26,Store B,Retail,0.1,Bob,6451.812,Debit Card
+2023-06-17,East,Chair,4,584.8,Store B,Retail,0.1,Eva,2105.28,Online
+2024-01-28,West,Printer,20,424.7,Store B,Wholesale,0.15,Bob,7219.9,Online
+2023-03-14,Central,Chair,16,179.22,Store D,Retail,0.1,Alice,2580.768,Online
+2025-01-09,East,Laptop,12,148.66,Store A,Wholesale,0,Diana,1783.92,Online
+2025-03-30,Central,Phone,16,460.43,Store B,Wholesale,0.15,Bob,6261.848,Online
+2023-10-23,East,Tablet,5,334.37,Store B,Retail,0.05,Carlos,1588.2575,Credit Card
+2025-06-08,West,Monitor,3,599.72,Store D,Retail,0.15,Alice,1529.286,Online
+2024-02-26,West,Monitor,11,389.84,Store D,Wholesale,0,Alice,4288.24,Gift Card
+2024-10-30,East,Chair,11,445.75,Store A,Wholesale,0.1,Frank,4412.925,Online
+2024-08-19,South,Laptop,18,96.84,Store A,Wholesale,0.15,Frank,1481.652,Cash
+2023-07-30,Central,Chair,1,528.31,Store C,Wholesale,0.1,Alice,475.479,Online
+2024-08-13,North,Monitor,16,64.03,Store A,Wholesale,0,Carlos,1024.48,Gift Card
+2023-11-04,North,Printer,13,179.37,Store A,Retail,0.05,Eva,2215.2195,Online
+2025-06-05,East,Printer,19,491.15,Store C,Retail,0,Frank,9331.85,Online
+2023-06-23,North,Printer,5,360.34,Store C,Wholesale,0,Carlos,1801.7,Gift Card
+2024-09-21,South,Laptop,20,296.8,Store A,Retail,0.1,Frank,5342.4,Gift Card
+2024-01-01,South,Desk,3,599.42,Store A,Wholesale,0.1,Bob,1618.434,Online
+2025-01-02,West,Laptop,1,374.33,Store B,Wholesale,0,Carlos,374.33,Credit Card
+2024-03-14,North,Desk,13,588.8,Store D,Wholesale,0.15,Frank,6506.24,Cash
+2024-05-04,West,Monitor,13,198.44,Store D,Wholesale,0,Carlos,2579.72,Cash
+2025-02-27,South,Printer,12,384.2,Store A,Retail,0,Eva,4610.4,Cash
+2024-11-13,Central,Phone,4,475.49,Store B,Wholesale,0.15,Frank,1616.666,Cash
+2023-10-31,West,Printer,6,202.97,Store C,Retail,0.1,Eva,1096.038,Gift Card
+2023-12-19,Central,Tablet,18,135.23,Store C,Wholesale,0,Diana,2434.14,Online
+2023-11-27,South,Tablet,20,356.4,Store C,Wholesale,0.05,Diana,6771.6,Cash
+2023-08-15,East,Laptop,3,294.72,Store C,Wholesale,0.05,Alice,839.952,Cash
+2023-01-16,West,Phone,20,553.85,Store A,Retail,0,Frank,11077,Cash
+2025-02-28,Central,Tablet,13,81.17,Store D,Retail,0.1,Frank,949.689,Cash
+2023-11-28,West,Phone,2,532.51,Store B,Wholesale,0,Carlos,1065.02,Credit Card
+2023-12-04,West,Printer,1,268.19,Store B,Wholesale,0.1,Carlos,241.371,Gift Card
+2024-06-21,South,Printer,17,432.65,Store A,Retail,0.15,Frank,6251.7925,Cash
+2025-03-17,East,Desk,14,123.04,Store A,Wholesale,0.1,Diana,1550.304,Cash
+2023-08-17,Central,Desk,16,454.54,Store B,Retail,0.1,Bob,6545.376,Online
+2023-08-30,Central,Monitor,11,414.58,Store D,Wholesale,0.05,Diana,4332.361,Cash
+2025-06-16,East,Phone,9,352.91,Store B,Wholesale,0.1,Bob,2858.571,Cash
+2023-06-29,North,Chair,10,126.46,Store A,Retail,0.1,Eva,1138.14,Online
+2023-08-13,North,Monitor,7,125.02,Store D,Wholesale,0,Carlos,875.14,Credit Card
+2024-04-29,West,Tablet,20,367.24,Store A,Wholesale,0.05,Carlos,6977.56,Gift Card
+2023-07-15,West,Monitor,8,432.12,Store B,Retail,0,Diana,3456.96,Credit Card
+2025-01-17,North,Tablet,3,13.33,Store D,Retail,0.1,Eva,35.991,Cash
+2025-02-21,East,Printer,13,105.93,Store C,Retail,0,Bob,1377.09,Debit Card
+2023-07-19,West,Monitor,20,526.55,Store A,Wholesale,0,Alice,10531,Debit Card
+2024-09-29,West,Phone,11,339.78,Store A,Retail,0.05,Diana,3550.701,Debit Card
+2024-10-17,East,Laptop,10,91.75,Store D,Wholesale,0.15,Frank,779.875,Cash
+2025-06-11,East,Phone,15,13.66,Store B,Retail,0.1,Alice,184.41,Debit Card
+2024-01-19,West,Desk,6,148.23,Store B,Retail,0.1,Eva,800.442,Credit Card
+2023-12-03,East,Chair,11,495.03,Store D,Wholesale,0.15,Frank,4628.5305,Cash
+2024-06-19,Central,Chair,6,247.2,Store A,Wholesale,0.05,Diana,1409.04,Credit Card
+2024-10-16,West,Tablet,19,207.45,Store C,Retail,0.05,Bob,3744.4725,Debit Card
+2025-01-23,East,Laptop,2,370.78,Store D,Wholesale,0.15,Diana,630.326,Online
+2023-10-02,Central,Laptop,9,146.72,Store A,Wholesale,0.1,Diana,1188.432,Credit Card
+2023-11-05,East,Desk,12,159.85,Store D,Retail,0.1,Alice,1726.38,Cash
+2023-06-18,South,Printer,13,181.68,Store C,Wholesale,0.05,Diana,2243.748,Gift Card
+2024-07-15,Central,Phone,16,34.16,Store A,Retail,0.15,Bob,464.576,Cash
+2024-06-14,Central,Laptop,2,287.43,Store C,Wholesale,0.1,Diana,517.374,Cash
+2024-04-05,East,Monitor,15,405.95,Store D,Wholesale,0.15,Eva,5175.8625,Gift Card
+2023-02-27,North,Laptop,1,430.61,Store B,Retail,0,Alice,430.61,Gift Card
+2023-07-31,West,Laptop,5,508.05,Store D,Retail,0,Frank,2540.25,Credit Card
+2023-03-03,West,Laptop,13,522.97,Store C,Retail,0.15,Carlos,5778.8185,Debit Card
+2023-04-26,South,Laptop,17,260.25,Store D,Wholesale,0.1,Frank,3981.825,Credit Card
+2024-10-19,East,Phone,6,549.21,Store B,Retail,0.1,Eva,2965.734,Credit Card
+2024-06-30,Central,Printer,17,472.33,Store C,Retail,0.15,Carlos,6825.1685,Debit Card
+2024-10-11,West,Laptop,9,596.83,Store A,Retail,0,Eva,5371.47,Cash
+2025-06-14,Central,Monitor,15,154.04,Store D,Retail,0.1,Alice,2079.54,Cash
+2024-12-22,East,Laptop,18,500.44,Store D,Wholesale,0.1,Bob,8107.128,Credit Card
+2024-04-22,West,Tablet,5,382.17,Store C,Wholesale,0,Diana,1910.85,Credit Card
+2025-01-25,North,Chair,3,365.54,Store B,Retail,0.15,Frank,932.127,Online
+2024-11-13,North,Laptop,5,270.13,Store C,Retail,0.15,Eva,1148.0525,Credit Card
+2023-03-16,East,Tablet,2,480.15,Store D,Retail,0.15,Diana,816.255,Online
+2023-05-06,North,Laptop,18,414.77,Store C,Wholesale,0.1,Eva,6719.274,Credit Card
+2024-11-15,East,Monitor,10,98.24,Store C,Wholesale,0,Frank,982.4,Credit Card
+2024-06-28,Central,Laptop,6,227.6,Store D,Retail,0.05,Carlos,1297.32,Debit Card
+2025-05-11,Central,Monitor,5,136.13,Store C,Retail,0.15,Carlos,578.5525,Online
+2023-02-26,Central,Tablet,5,489.13,Store C,Retail,0.1,Diana,2201.085,Gift Card
+2024-04-30,South,Laptop,4,414.36,Store A,Retail,0,Bob,1657.44,Debit Card
+2025-03-11,East,Laptop,6,138.26,Store B,Retail,0.15,Eva,705.126,Online
+2025-06-30,East,Phone,12,487.57,Store A,Wholesale,0.05,Eva,5558.298,Cash
+2024-06-02,North,Chair,20,427.3,Store C,Wholesale,0.05,Frank,8118.7,Gift Card
+2024-09-01,South,Laptop,16,588.92,Store D,Wholesale,0.15,Alice,8009.312,Cash
+2025-01-11,South,Laptop,6,429.45,Store B,Retail,0.1,Alice,2319.03,Cash
+2025-03-31,South,Phone,1,476,Store A,Wholesale,0.15,Carlos,404.6,Cash
+2024-11-28,South,Phone,13,141.26,Store B,Retail,0,Frank,1836.38,Online
+2023-07-05,North,Chair,3,250.65,Store D,Retail,0.15,Eva,639.1575,Credit Card
+2024-10-24,West,Monitor,19,301.17,Store D,Retail,0.05,Alice,5436.1185,Debit Card
+2025-04-08,North,Chair,7,30.79,Store C,Retail,0.1,Bob,193.977,Cash
+2024-06-05,East,Laptop,1,561.6,Store A,Wholesale,0.15,Alice,477.36,Debit Card
+2025-01-23,West,Phone,16,193.7,Store A,Retail,0.15,Bob,2634.32,Credit Card
+2024-11-04,Central,Tablet,17,310.03,Store D,Retail,0.05,Carlos,5006.9845,Online
+2024-01-01,West,Printer,13,204.67,Store A,Retail,0.15,Alice,2261.6035,Online
+2024-04-09,Central,Printer,3,250.11,Store D,Wholesale,0,Alice,750.33,Gift Card
+2025-01-17,North,Desk,12,526.82,Store A,Retail,0,Frank,6321.84,Credit Card
+2024-09-22,East,Chair,18,575.1,Store D,Wholesale,0,Bob,10351.8,Online
+2023-01-20,East,Monitor,8,325.52,Store C,Retail,0.1,Frank,2343.744,Debit Card
+2024-01-12,North,Monitor,14,157.14,Store A,Wholesale,0.15,Diana,1869.966,Gift Card
+2024-04-08,Central,Laptop,10,100.26,Store D,Wholesale,0.05,Carlos,952.47,Gift Card
+2023-04-27,Central,Laptop,9,554.48,Store C,Wholesale,0,Carlos,4990.32,Online
+2024-07-17,North,Phone,4,375.96,Store C,Retail,0.15,Carlos,1278.264,Debit Card
+2024-02-17,Central,Monitor,14,485.21,Store A,Retail,0,Frank,6792.94,Online
+2024-01-25,South,Monitor,9,372.44,Store A,Wholesale,0.05,Diana,3184.362,Gift Card
+2024-03-24,Central,Laptop,7,140.53,Store D,Retail,0,Frank,983.71,Debit Card
+2023-06-25,North,Desk,15,365.61,Store D,Retail,0.15,Bob,4661.5275,Cash
+2023-04-17,South,Laptop,20,353.97,Store B,Wholesale,0.15,Frank,6017.49,Cash
+2023-06-28,East,Chair,14,293.31,Store D,Wholesale,0,Alice,4106.34,Gift Card
+2024-04-06,Central,Chair,10,397.39,Store D,Retail,0.15,Alice,3377.815,Gift Card
+2025-02-17,South,Chair,2,98.35,Store C,Retail,0,Eva,196.7,Debit Card
+2023-01-08,South,Desk,6,581.67,Store A,Wholesale,0,Frank,3490.02,Debit Card
+2023-12-21,South,Phone,19,30.41,Store D,Retail,0.05,Frank,548.9005,Debit Card
+2024-07-13,North,Monitor,15,368.79,Store C,Wholesale,0.1,Bob,4978.665,Gift Card
+2024-03-23,West,Monitor,4,56.06,Store D,Retail,0.15,Carlos,190.604,Cash
+2024-03-19,West,Chair,7,15.65,Store D,Wholesale,0,Carlos,109.55,Debit Card
+2025-05-20,Central,Tablet,9,380.85,Store B,Wholesale,0,Carlos,3427.65,Cash
+2025-01-19,South,Chair,11,587.21,Store C,Wholesale,0,Carlos,6459.31,Debit Card
+2023-05-28,South,Printer,17,554.25,Store A,Wholesale,0.1,Diana,8480.025,Debit Card
+2023-10-28,East,Printer,3,410.23,Store A,Wholesale,0.15,Diana,1046.0865,Credit Card
+2023-11-25,West,Monitor,5,99.23,Store B,Retail,0,Eva,496.15,Debit Card
+2024-11-17,South,Monitor,9,503.18,Store B,Wholesale,0,Diana,4528.62,Gift Card
+2024-01-24,Central,Monitor,17,155.31,Store C,Retail,0.15,Bob,2244.2295,Credit Card
+2023-06-19,North,Chair,7,303.79,Store D,Wholesale,0.15,Frank,1807.5505,Credit Card
+2025-01-13,East,Phone,17,263.75,Store B,Retail,0,Alice,4483.75,Online
+2024-01-24,East,Phone,4,179.92,Store D,Retail,0.1,Diana,647.712,Online
+2025-01-06,South,Printer,2,264,Store D,Retail,0,Bob,528,Gift Card
+2025-01-02,Central,Laptop,4,403.97,Store A,Wholesale,0.05,Alice,1535.086,Cash
+2023-02-22,North,Desk,4,85.96,Store A,Retail,0.1,Frank,309.456,Credit Card
+2025-02-06,East,Desk,2,93.49,Store A,Wholesale,0.1,Alice,168.282,Debit Card
+2024-09-26,East,Desk,11,144.29,Store B,Retail,0.05,Bob,1507.8305,Credit Card
+2025-03-28,North,Chair,18,553.23,Store D,Wholesale,0,Frank,9958.14,Cash
+2023-07-01,East,Chair,9,228.3,Store B,Retail,0.05,Eva,1951.965,Debit Card
+2023-04-29,West,Desk,7,235.94,Store D,Wholesale,0.1,Alice,1486.422,Gift Card
+2023-04-30,East,Printer,17,369.52,Store C,Wholesale,0,Carlos,6281.84,Gift Card
+2024-03-14,West,Phone,8,142.09,Store A,Wholesale,0,Eva,1136.72,Credit Card
+2023-06-27,Central,Chair,3,497.61,Store B,Wholesale,0.15,Alice,1268.9055,Cash
+2024-04-10,North,Laptop,19,9.48,Store A,Wholesale,0,Carlos,180.12,Online
+2023-08-30,Central,Printer,8,55.27,Store A,Wholesale,0.15,Bob,375.836,Cash
+2023-10-23,West,Laptop,17,25.95,Store B,Wholesale,0.05,Bob,419.0925,Gift Card
+2023-03-23,North,Desk,18,209.65,Store A,Wholesale,0.1,Carlos,3396.33,Debit Card
+2024-09-21,Central,Laptop,13,75.77,Store B,Wholesale,0.15,Frank,837.2585,Debit Card
+2024-12-26,West,Tablet,5,307.84,Store B,Wholesale,0.1,Bob,1385.28,Online
+2023-02-26,East,Phone,13,6.5,Store A,Wholesale,0,Diana,84.5,Cash
+2024-12-10,North,Monitor,8,70.79,Store B,Wholesale,0,Diana,566.32,Online
+2025-01-01,East,Laptop,17,584.7,Store D,Retail,0.1,Eva,8945.91,Online
+2025-03-14,East,Phone,4,23.27,Store C,Wholesale,0.15,Diana,79.118,Online
+2024-01-16,South,Tablet,5,440.93,Store B,Wholesale,0.1,Carlos,1984.185,Gift Card
+2024-04-19,West,Tablet,10,278.45,Store D,Wholesale,0,Eva,2784.5,Credit Card
+2023-12-08,North,Monitor,14,382.19,Store B,Wholesale,0.05,Frank,5083.127,Cash
+2023-03-15,North,Monitor,14,232.49,Store D,Wholesale,0.05,Diana,3092.117,Online
+2025-02-07,South,Laptop,17,15.01,Store D,Wholesale,0.15,Diana,216.8945,Debit Card
+2025-06-27,North,Monitor,11,29.41,Store D,Retail,0.05,Carlos,307.3345,Credit Card
+2024-12-17,Central,Tablet,1,486.19,Store B,Retail,0.05,Frank,461.8805,Online
+2024-05-03,South,Laptop,6,266.67,Store B,Wholesale,0.05,Eva,1520.019,Debit Card
+2023-12-26,South,Printer,3,300.8,Store B,Wholesale,0.1,Carlos,812.16,Cash
+2024-05-13,Central,Printer,11,79.63,Store B,Wholesale,0.05,Frank,832.1335,Online
+2023-10-07,South,Laptop,6,505.7,Store C,Retail,0,Alice,3034.2,Cash
+2023-07-11,West,Printer,5,569.62,Store C,Wholesale,0,Diana,2848.1,Debit Card
+2025-01-31,South,Tablet,19,90.85,Store C,Retail,0.05,Alice,1639.8425,Credit Card
+2023-02-04,South,Chair,2,296.91,Store A,Wholesale,0.05,Carlos,564.129,Debit Card
+2023-09-02,South,Printer,2,6.19,Store B,Retail,0.1,Frank,11.142,Credit Card
+2024-12-13,Central,Monitor,18,207.35,Store D,Wholesale,0.15,Alice,3172.455,Debit Card
+2023-10-13,Central,Tablet,5,75.27,Store A,Wholesale,0,Carlos,376.35,Cash
+2024-10-03,South,Monitor,3,136.15,Store A,Retail,0.1,Diana,367.605,Gift Card
+2024-04-28,Central,Desk,5,544.66,Store B,Retail,0.1,Diana,2450.97,Online
+2024-02-07,Central,Desk,8,561.9,Store A,Retail,0.15,Bob,3820.92,Online
+2023-02-08,South,Chair,20,313.47,Store C,Retail,0.15,Alice,5328.99,Online
+2023-06-17,South,Phone,1,418.45,Store C,Retail,0.15,Diana,355.6825,Cash
+2024-07-29,West,Monitor,8,420.75,Store B,Wholesale,0.1,Bob,3029.4,Online
+2024-01-29,West,Printer,16,514.36,Store D,Wholesale,0,Alice,8229.76,Online
+2024-01-18,East,Phone,2,297.2,Store B,Retail,0.1,Frank,534.96,Gift Card
+2024-08-12,North,Chair,10,278,Store C,Retail,0,Bob,2780,Credit Card
+2025-04-16,West,Monitor,8,583.17,Store D,Wholesale,0.1,Frank,4198.824,Credit Card
+2023-02-26,Central,Desk,16,75.62,Store D,Retail,0.1,Diana,1088.928,Cash
+2023-01-07,East,Desk,13,561.62,Store C,Wholesale,0.05,Frank,6936.007,Gift Card
+2023-10-24,South,Desk,5,359.61,Store A,Retail,0,Bob,1798.05,Online
+2024-01-02,North,Tablet,15,115.48,Store A,Retail,0.15,Frank,1472.37,Credit Card
+2024-09-17,South,Laptop,12,596.26,Store D,Wholesale,0.15,Eva,6081.852,Gift Card
+2024-05-05,Central,Tablet,19,401.68,Store C,Wholesale,0.05,Alice,7250.324,Debit Card
+2025-06-27,West,Desk,13,112.88,Store D,Retail,0,Frank,1467.44,Debit Card
+2024-05-14,West,Phone,6,370.08,Store D,Retail,0.15,Alice,1887.408,Online
+2024-02-29,North,Chair,15,119.86,Store A,Wholesale,0.15,Bob,1528.215,Debit Card
+2025-05-19,East,Phone,5,271.44,Store A,Wholesale,0.15,Diana,1153.62,Debit Card
+2024-12-02,East,Desk,9,363.39,Store B,Wholesale,0.05,Diana,3106.9845,Gift Card
+2024-07-30,West,Printer,12,533.77,Store D,Wholesale,0.15,Alice,5444.454,Cash
+2023-06-25,South,Desk,12,192.03,Store B,Wholesale,0.1,Carlos,2073.924,Credit Card
+2024-07-10,South,Chair,20,504.22,Store D,Wholesale,0,Frank,10084.4,Online
+2023-01-06,East,Laptop,7,193.66,Store A,Wholesale,0.1,Diana,1220.058,Credit Card
+2024-02-24,South,Chair,3,270.83,Store B,Wholesale,0.1,Carlos,731.241,Online
+2023-12-11,Central,Tablet,18,62.08,Store B,Retail,0,Diana,1117.44,Credit Card
+2025-02-19,South,Printer,11,505.96,Store C,Wholesale,0.15,Eva,4730.726,Debit Card
+2025-03-18,West,Tablet,4,62.46,Store D,Wholesale,0.15,Alice,212.364,Debit Card
+2023-09-22,South,Phone,7,480.08,Store B,Wholesale,0.1,Diana,3024.504,Online
+2023-12-23,West,Tablet,18,60.66,Store A,Retail,0,Bob,1091.88,Online
+2025-05-04,North,Desk,6,249.09,Store B,Retail,0.05,Frank,1419.813,Cash
+2025-01-11,East,Phone,20,400.05,Store D,Wholesale,0.1,Diana,7200.9,Debit Card
+2025-04-21,South,Printer,1,130.87,Store B,Retail,0.05,Diana,124.3265,Online
+2023-12-13,Central,Tablet,11,133.08,Store A,Wholesale,0.15,Frank,1244.298,Credit Card
+2024-02-07,East,Chair,13,448.68,Store B,Wholesale,0.1,Diana,5249.556,Credit Card
+2024-04-24,North,Tablet,19,36.23,Store B,Wholesale,0,Diana,688.37,Debit Card
+2023-09-11,West,Chair,14,113.77,Store C,Retail,0,Eva,1592.78,Cash
+2025-06-09,Central,Printer,2,89.6,Store A,Retail,0,Diana,179.2,Gift Card
+2025-06-06,East,Desk,3,391.92,Store A,Wholesale,0.15,Alice,999.396,Debit Card
+2024-12-23,South,Chair,10,418.93,Store C,Wholesale,0.1,Bob,3770.37,Credit Card
+2023-08-27,East,Monitor,12,303.09,Store B,Wholesale,0,Alice,3637.08,Gift Card
+2023-01-09,East,Monitor,10,209.95,Store A,Wholesale,0.1,Eva,1889.55,Cash
+2025-04-22,East,Laptop,8,283.63,Store C,Wholesale,0.1,Alice,2042.136,Cash
+2023-09-06,South,Phone,7,18.36,Store D,Retail,0.1,Alice,115.668,Online
+2023-01-21,East,Monitor,9,475.38,Store A,Wholesale,0.1,Carlos,3850.578,Debit Card
+2024-04-26,Central,Chair,12,591.92,Store D,Retail,0,Eva,7103.04,Debit Card
+2023-06-27,North,Phone,7,93.23,Store B,Retail,0.05,Alice,619.9795,Credit Card
+2023-01-01,East,Tablet,15,298.71,Store C,Retail,0,Bob,4480.65,Debit Card
+2023-12-30,West,Tablet,15,52.37,Store A,Retail,0.15,Diana,667.7175,Online
+2023-01-22,Central,Phone,6,104.19,Store C,Retail,0.1,Diana,562.626,Online
+2024-07-27,South,Laptop,8,493.09,Store A,Retail,0.05,Diana,3747.484,Credit Card
+2024-01-15,South,Chair,6,291.58,Store B,Wholesale,0,Frank,1749.48,Credit Card
+2024-01-04,West,Tablet,1,103.13,Store B,Wholesale,0,Bob,103.13,Online
+2023-02-09,East,Monitor,1,541.9,Store A,Retail,0.05,Eva,514.805,Cash
+2024-06-20,North,Phone,11,303.09,Store D,Wholesale,0.1,Diana,3000.591,Online
+2023-02-21,Central,Desk,11,61.81,Store C,Retail,0.05,Bob,645.9145,Gift Card
+2023-08-16,Central,Desk,8,355.15,Store B,Retail,0.1,Carlos,2557.08,Online
+2023-11-03,West,Monitor,11,119.84,Store D,Wholesale,0.1,Eva,1186.416,Online
+2024-04-26,South,Laptop,16,318.32,Store C,Wholesale,0.05,Diana,4838.464,Credit Card
+2024-10-08,South,Desk,9,446.49,Store D,Wholesale,0.15,Carlos,3415.6485,Cash
+2023-01-09,South,Desk,16,258.82,Store D,Retail,0.1,Diana,3727.008,Online
+2023-12-25,North,Printer,9,272.68,Store D,Wholesale,0.05,Eva,2331.414,Online
+2024-05-11,Central,Monitor,12,438.77,Store C,Retail,0,Eva,5265.24,Debit Card
+2023-11-23,West,Tablet,18,267.63,Store B,Retail,0,Carlos,4817.34,Gift Card
+2023-12-10,Central,Printer,6,115.94,Store A,Wholesale,0.05,Carlos,660.858,Credit Card
+2024-02-03,North,Printer,19,275.78,Store C,Retail,0,Frank,5239.82,Cash
+2024-11-24,Central,Chair,12,255.93,Store B,Retail,0,Eva,3071.16,Cash
+2024-03-06,West,Phone,1,381.21,Store D,Wholesale,0.15,Bob,324.0285,Online
+2025-02-01,South,Desk,5,38.23,Store C,Wholesale,0.15,Bob,162.4775,Debit Card
+2024-06-04,Central,Laptop,7,225.86,Store B,Wholesale,0,Carlos,1581.02,Debit Card
+2023-08-06,Central,Desk,8,548.02,Store D,Retail,0.05,Eva,4164.952,Online
+2023-06-30,West,Printer,18,485.3,Store D,Wholesale,0.05,Bob,8298.63,Debit Card
+2023-02-15,West,Printer,19,414.31,Store A,Retail,0.1,Eva,7084.701,Credit Card
+2024-01-23,North,Printer,8,50.72,Store A,Wholesale,0.05,Carlos,385.472,Debit Card
+2024-10-31,North,Tablet,17,83.26,Store A,Wholesale,0.15,Eva,1203.107,Cash
+2023-12-19,Central,Desk,20,51.85,Store C,Wholesale,0.15,Carlos,881.45,Cash
+2023-07-04,South,Tablet,12,122.51,Store B,Wholesale,0.05,Diana,1396.614,Gift Card
+2024-05-16,East,Laptop,11,222.13,Store D,Wholesale,0.15,Eva,2076.9155,Cash
+2023-09-16,North,Monitor,8,204.84,Store C,Retail,0,Bob,1638.72,Cash
+2024-11-22,East,Chair,3,536.97,Store C,Wholesale,0,Carlos,1610.91,Debit Card
+2024-04-13,West,Chair,15,553.01,Store A,Retail,0.1,Carlos,7465.635,Credit Card
+2024-06-30,South,Chair,20,284.82,Store D,Retail,0.1,Alice,5126.76,Credit Card
+2024-08-29,North,Desk,18,523.87,Store C,Retail,0.15,Diana,8015.211,Gift Card
+2023-12-26,Central,Desk,3,232.13,Store B,Retail,0.1,Diana,626.751,Cash
+2025-01-30,North,Phone,17,179.32,Store A,Retail,0.1,Bob,2743.596,Debit Card
+2023-05-17,South,Chair,1,396.35,Store B,Retail,0.15,Frank,336.8975,Debit Card
+2024-01-27,Central,Desk,17,108.48,Store A,Wholesale,0.1,Carlos,1659.744,Online
+2025-05-26,East,Printer,10,149.67,Store D,Retail,0.1,Carlos,1347.03,Cash
+2025-03-09,North,Phone,1,506.41,Store D,Wholesale,0,Bob,506.41,Cash
+2024-02-22,West,Tablet,6,345.9,Store B,Retail,0.15,Frank,1764.09,Credit Card
+2025-02-03,East,Tablet,15,342.04,Store C,Retail,0.15,Diana,4361.01,Gift Card
+2024-01-09,Central,Printer,11,404.88,Store A,Wholesale,0.05,Alice,4230.996,Gift Card
+2025-05-05,North,Desk,9,292.46,Store A,Wholesale,0.05,Carlos,2500.533,Credit Card
+2023-04-17,Central,Desk,5,547.53,Store A,Retail,0.1,Eva,2463.885,Debit Card
+2024-06-16,South,Desk,12,348.88,Store C,Wholesale,0,Alice,4186.56,Credit Card
+2024-11-01,South,Phone,15,486.03,Store C,Wholesale,0,Alice,7290.45,Debit Card
+2025-02-07,East,Tablet,14,159.09,Store C,Retail,0.15,Bob,1893.171,Debit Card
+2024-11-24,South,Monitor,12,173.79,Store D,Retail,0.15,Eva,1772.658,Credit Card
+2024-04-23,Central,Monitor,13,439.75,Store A,Wholesale,0,Frank,5716.75,Online
+2024-06-24,East,Laptop,9,265.43,Store D,Wholesale,0.05,Eva,2269.4265,Credit Card
+2025-06-01,West,Monitor,12,290.28,Store B,Retail,0.1,Carlos,3135.024,Cash
+2023-03-12,West,Tablet,6,88.7,Store B,Wholesale,0,Carlos,532.2,Gift Card
+2024-11-11,Central,Desk,2,239.69,Store C,Retail,0,Diana,479.38,Credit Card
+2024-10-17,Central,Tablet,8,39.79,Store C,Retail,0.1,Bob,286.488,Credit Card
+2023-05-10,East,Printer,18,206.8,Store A,Retail,0.05,Frank,3536.28,Debit Card
+2023-07-29,East,Laptop,18,175.81,Store C,Retail,0,Eva,3164.58,Gift Card
+2023-08-26,Central,Phone,14,547.36,Store C,Retail,0.15,Diana,6513.584,Online
+2023-12-28,East,Laptop,19,374.8,Store A,Retail,0.05,Carlos,6765.14,Online
+2025-03-10,North,Tablet,9,507.74,Store D,Retail,0.15,Bob,3884.211,Cash
+2023-09-09,Central,Desk,1,223.56,Store B,Wholesale,0.15,Bob,190.026,Credit Card
+2023-05-28,North,Tablet,2,294.27,Store C,Retail,0.1,Diana,529.686,Gift Card
+2025-05-21,West,Monitor,1,319.49,Store C,Wholesale,0.15,Diana,271.5665,Online
+2023-09-30,East,Laptop,14,243.96,Store D,Wholesale,0.05,Diana,3244.668,Online
+2024-10-08,South,Laptop,6,48.48,Store D,Retail,0.1,Diana,261.792,Online
+2023-04-14,East,Laptop,20,87.47,Store B,Retail,0,Carlos,1749.4,Online
+2023-03-05,South,Monitor,17,465.6,Store C,Retail,0.1,Bob,7123.68,Debit Card
+2024-07-17,North,Desk,17,279.38,Store B,Wholesale,0.05,Frank,4511.987,Credit Card
+2024-05-20,North,Tablet,16,427.68,Store A,Retail,0.1,Carlos,6158.592,Debit Card
+2025-05-06,North,Laptop,15,281.73,Store B,Wholesale,0.1,Bob,3803.355,Credit Card
+2023-01-15,North,Desk,15,185,Store B,Wholesale,0,Alice,2775,Cash
+2024-01-09,Central,Monitor,19,380.82,Store D,Wholesale,0.1,Diana,6512.022,Credit Card
+2023-07-12,South,Chair,4,444.87,Store B,Retail,0.15,Carlos,1512.558,Online
+2025-06-21,East,Chair,7,590.79,Store B,Retail,0.05,Eva,3928.7535,Cash
+2024-12-29,North,Printer,5,34.58,Store A,Retail,0.1,Frank,155.61,Gift Card
+2023-05-23,West,Tablet,9,438.22,Store D,Retail,0.05,Bob,3746.781,Cash
+2024-04-03,Central,Desk,5,84.91,Store A,Retail,0.1,Carlos,382.095,Cash
+2024-01-17,East,Laptop,7,322.11,Store C,Wholesale,0.1,Diana,2029.293,Debit Card
+2025-04-05,Central,Monitor,2,231.96,Store B,Retail,0.1,Alice,417.528,Debit Card
+2025-04-17,Central,Chair,15,242.07,Store A,Wholesale,0.15,Bob,3086.3925,Credit Card
+2024-10-12,Central,Laptop,2,48.02,Store C,Retail,0.05,Carlos,91.238,Debit Card
+2024-07-27,Central,Chair,1,534.28,Store D,Wholesale,0.1,Eva,480.852,Online
+2025-01-10,West,Tablet,3,98.15,Store D,Wholesale,0.15,Diana,250.2825,Debit Card
+2024-07-25,South,Chair,12,61.85,Store D,Wholesale,0.05,Alice,705.09,Credit Card
+2024-05-22,West,Tablet,6,268.34,Store A,Wholesale,0.1,Diana,1449.036,Debit Card
+2024-08-10,Central,Desk,4,529.03,Store B,Wholesale,0.05,Carlos,2010.314,Online
+2023-04-27,West,Tablet,2,107.32,Store B,Retail,0.05,Alice,203.908,Credit Card
+2023-06-21,South,Tablet,1,500.96,Store C,Wholesale,0.05,Frank,475.912,Online
+2024-10-11,West,Printer,17,549.78,Store B,Wholesale,0.05,Alice,8878.947,Credit Card
+2025-01-26,North,Laptop,3,58.51,Store A,Retail,0.05,Carlos,166.7535,Cash
+2024-06-18,South,Chair,17,504.08,Store A,Wholesale,0.1,Diana,7712.424,Online
+2025-06-18,East,Monitor,17,419.63,Store D,Wholesale,0,Alice,7133.71,Cash
+2024-10-29,South,Laptop,2,267.36,Store B,Wholesale,0.05,Frank,507.984,Online
+2025-04-08,Central,Phone,2,298.06,Store B,Wholesale,0,Alice,596.12,Debit Card
+2023-01-31,Central,Tablet,13,132.97,Store B,Wholesale,0.05,Frank,1642.1795,Debit Card
+2024-03-15,West,Chair,14,476.28,Store A,Wholesale,0.1,Eva,6001.128,Credit Card
+2023-06-23,North,Tablet,16,294.88,Store B,Retail,0.05,Frank,4482.176,Cash
+2024-06-14,North,Monitor,19,596.03,Store C,Retail,0.15,Eva,9625.8845,Debit Card
+2023-11-30,West,Desk,6,182.4,Store B,Wholesale,0,Alice,1094.4,Online
+2024-04-21,North,Laptop,10,400.95,Store C,Retail,0.05,Carlos,3809.025,Online
+2023-08-06,East,Desk,7,373.66,Store B,Retail,0.05,Alice,2484.839,Gift Card
+2024-06-21,West,Desk,7,355.66,Store C,Retail,0.15,Carlos,2116.177,Gift Card
+2025-03-16,North,Tablet,12,260.31,Store C,Retail,0.1,Bob,2811.348,Cash
+2024-04-20,West,Tablet,10,370.99,Store B,Retail,0.15,Frank,3153.415,Online
+2024-12-20,East,Laptop,2,548.72,Store A,Wholesale,0.1,Frank,987.696,Credit Card
+2023-08-22,North,Printer,8,343.53,Store A,Wholesale,0,Frank,2748.24,Cash
+2023-03-04,North,Tablet,13,494.78,Store A,Wholesale,0.15,Diana,5467.319,Cash
+2024-06-24,North,Laptop,9,36.62,Store B,Wholesale,0.1,Eva,296.622,Debit Card
+2024-12-09,East,Tablet,14,216.2,Store C,Wholesale,0,Diana,3026.8,Online
+2024-07-04,West,Laptop,11,128.99,Store A,Retail,0.05,Diana,1347.9455,Debit Card
+2025-03-04,East,Phone,11,183.11,Store B,Retail,0.15,Frank,1712.0785,Gift Card
+2024-01-22,East,Printer,11,277.95,Store A,Retail,0.05,Frank,2904.5775,Gift Card
+2025-03-12,East,Desk,14,554.08,Store A,Retail,0.05,Diana,7369.264,Cash
+2025-02-28,Central,Phone,15,23.32,Store A,Retail,0.05,Carlos,332.31,Debit Card
+2024-05-23,East,Desk,4,20.96,Store D,Wholesale,0.05,Bob,79.648,Online
+2023-09-17,North,Desk,18,132.29,Store A,Wholesale,0.05,Diana,2262.159,Credit Card
+2023-06-13,East,Phone,19,199.65,Store A,Retail,0.1,Carlos,3414.015,Cash
+2025-05-31,West,Phone,16,307,Store A,Wholesale,0,Bob,4912,Debit Card
+2023-10-11,East,Tablet,1,315.93,Store C,Retail,0.15,Alice,268.5405,Credit Card
+2023-08-07,West,Printer,5,596.97,Store A,Retail,0,Eva,2984.85,Cash
+2023-12-03,North,Laptop,17,376.98,Store A,Retail,0.05,Carlos,6088.227,Debit Card
+2024-08-01,Central,Printer,6,208.64,Store D,Retail,0.1,Frank,1126.656,Credit Card
+2023-03-20,East,Chair,7,307.82,Store B,Wholesale,0,Eva,2154.74,Debit Card
+2025-06-30,Central,Tablet,13,382.48,Store D,Retail,0.05,Eva,4723.628,Credit Card
+2025-02-05,South,Desk,9,188.03,Store B,Retail,0,Frank,1692.27,Cash
+2024-05-19,East,Desk,17,238.17,Store D,Wholesale,0.15,Frank,3441.5565,Cash
+2023-03-04,North,Printer,10,450.71,Store B,Retail,0.1,Bob,4056.39,Gift Card
+2023-01-22,Central,Monitor,2,413.36,Store D,Retail,0.1,Alice,744.048,Online
+2023-03-20,South,Phone,20,536.71,Store B,Retail,0.15,Carlos,9124.07,Debit Card
+2024-06-05,West,Phone,5,206.42,Store D,Retail,0.05,Alice,980.495,Debit Card
+2024-07-09,East,Printer,4,256.83,Store A,Wholesale,0.15,Carlos,873.222,Cash
+2025-03-08,South,Monitor,1,247.04,Store C,Wholesale,0,Bob,247.04,Credit Card
+2025-06-21,South,Tablet,3,583.38,Store B,Retail,0.15,Diana,1487.619,Cash
+2025-06-28,North,Tablet,13,341.38,Store C,Retail,0.15,Alice,3772.249,Cash
+2025-04-05,West,Chair,19,267.03,Store D,Wholesale,0.15,Bob,4312.5345,Online
+2024-03-05,South,Printer,7,77.69,Store D,Wholesale,0,Carlos,543.83,Credit Card
+2024-03-09,East,Phone,20,312.43,Store C,Retail,0,Carlos,6248.6,Credit Card
+2025-02-25,Central,Monitor,19,14.1,Store C,Wholesale,0.05,Carlos,254.505,Cash
+2024-11-16,West,Tablet,17,266.83,Store D,Retail,0.05,Frank,4309.3045,Credit Card
+2024-08-01,South,Printer,20,248.11,Store D,Wholesale,0.05,Carlos,4714.09,Online
+2024-04-20,West,Chair,5,316.76,Store B,Retail,0.05,Alice,1504.61,Gift Card
+2024-04-20,South,Laptop,2,169.62,Store C,Retail,0.1,Alice,305.316,Debit Card
+2023-09-22,North,Laptop,19,35.38,Store A,Retail,0.15,Diana,571.387,Online
+2025-02-21,West,Chair,3,264.08,Store A,Retail,0.1,Diana,713.016,Online
+2025-06-24,East,Tablet,5,137.56,Store C,Wholesale,0.15,Diana,584.63,Debit Card
+2023-11-28,Central,Laptop,8,157.93,Store B,Retail,0.15,Diana,1073.924,Online
+2024-04-08,North,Desk,6,126.86,Store C,Wholesale,0.05,Eva,723.102,Debit Card
+2025-01-07,North,Chair,15,240.05,Store C,Retail,0.05,Carlos,3420.7125,Credit Card
+2023-02-24,South,Tablet,3,37.63,Store A,Wholesale,0.1,Carlos,101.601,Debit Card
+2023-10-19,East,Chair,13,393.1,Store B,Wholesale,0.1,Alice,4599.27,Online
+2024-06-17,North,Chair,10,83.86,Store A,Wholesale,0.15,Alice,712.81,Credit Card
+2023-06-21,Central,Desk,10,110.07,Store B,Wholesale,0,Frank,1100.7,Credit Card
+2024-08-30,East,Phone,6,288.98,Store C,Wholesale,0.15,Diana,1473.798,Gift Card
+2025-01-03,Central,Desk,10,451.14,Store A,Retail,0,Bob,4511.4,Gift Card
+2023-02-23,West,Printer,16,509.08,Store C,Wholesale,0,Carlos,8145.28,Online
+2025-04-26,Central,Printer,4,582.73,Store D,Wholesale,0.05,Carlos,2214.374,Cash
+2023-06-08,South,Phone,9,115.24,Store B,Wholesale,0,Alice,1037.16,Credit Card
+2023-03-16,North,Monitor,14,565.45,Store D,Wholesale,0.1,Eva,7124.67,Online
+2024-10-23,North,Phone,11,121.54,Store D,Wholesale,0,Carlos,1336.94,Credit Card
+2025-05-23,East,Printer,9,160.15,Store D,Retail,0.1,Alice,1297.215,Debit Card
+2023-05-06,East,Desk,14,175.66,Store B,Wholesale,0.05,Bob,2336.278,Cash
+2024-08-15,South,Tablet,3,437.97,Store C,Wholesale,0.05,Eva,1248.2145,Cash
+2023-08-23,South,Printer,12,411.59,Store B,Wholesale,0.15,Diana,4198.218,Cash
+2025-04-13,South,Laptop,1,163.29,Store B,Retail,0,Diana,163.29,Credit Card
+2024-06-11,Central,Desk,5,538.52,Store B,Wholesale,0.05,Alice,2557.97,Gift Card
+2024-04-29,South,Phone,11,255.95,Store C,Wholesale,0.1,Alice,2533.905,Online
+2023-03-27,South,Desk,7,290.22,Store A,Retail,0.1,Alice,1828.386,Cash
+2024-10-23,North,Chair,20,198.95,Store B,Retail,0.1,Diana,3581.1,Credit Card
+2023-06-21,North,Printer,11,577.1,Store C,Retail,0.15,Frank,5395.885,Cash
+2023-05-12,Central,Printer,10,50.1,Store A,Wholesale,0.1,Bob,450.9,Cash
+2024-10-20,Central,Printer,19,554.5,Store B,Retail,0.15,Carlos,8955.175,Online
+2024-04-04,North,Laptop,14,117.31,Store A,Wholesale,0,Diana,1642.34,Online
+2025-01-12,Central,Tablet,3,193.98,Store A,Retail,0,Bob,581.94,Credit Card
+2023-07-24,South,Phone,20,386.86,Store A,Wholesale,0.05,Carlos,7350.34,Online
+2023-09-09,North,Chair,12,81.33,Store D,Wholesale,0,Carlos,975.96,Cash
+2024-04-20,East,Printer,5,550.65,Store A,Retail,0.15,Bob,2340.2625,Gift Card
+2025-02-06,West,Printer,4,473.91,Store A,Retail,0.05,Eva,1800.858,Credit Card
+2023-06-18,West,Tablet,19,25.22,Store C,Wholesale,0,Bob,479.18,Credit Card
+2024-11-01,North,Phone,2,437.04,Store C,Wholesale,0,Frank,874.08,Credit Card
+2024-08-12,West,Desk,5,448.86,Store C,Wholesale,0.15,Frank,1907.655,Credit Card
+2025-04-08,Central,Phone,14,299.94,Store D,Retail,0,Carlos,4199.16,Gift Card
+2024-07-20,Central,Laptop,8,224.18,Store B,Retail,0.15,Bob,1524.424,Debit Card
+2023-02-17,West,Desk,6,327.69,Store D,Wholesale,0.05,Diana,1867.833,Cash
+2024-07-02,East,Phone,8,432.27,Store D,Retail,0.05,Eva,3285.252,Cash
+2025-04-01,North,Monitor,4,249.98,Store C,Retail,0.15,Eva,849.932,Debit Card
+2025-06-02,South,Printer,14,194.31,Store C,Wholesale,0.15,Frank,2312.289,Debit Card
+2024-11-21,West,Phone,5,69.29,Store C,Wholesale,0,Carlos,346.45,Credit Card
+2024-01-10,South,Printer,15,306.91,Store A,Retail,0,Carlos,4603.65,Cash
+2023-10-21,North,Desk,4,390.3,Store A,Retail,0.15,Diana,1327.02,Debit Card
+2025-01-20,North,Phone,7,61.83,Store B,Retail,0,Diana,432.81,Online
+2024-11-09,West,Monitor,7,83.32,Store D,Wholesale,0.05,Carlos,554.078,Cash
+2024-04-03,West,Monitor,4,563.06,Store D,Retail,0.05,Bob,2139.628,Cash
+2024-01-06,North,Phone,13,256.35,Store D,Wholesale,0.15,Alice,2832.6675,Cash
+2023-08-02,Central,Printer,9,303.26,Store A,Wholesale,0.05,Diana,2592.873,Debit Card
+2023-11-26,North,Chair,9,440.48,Store A,Retail,0.15,Diana,3369.672,Gift Card
+2025-04-20,East,Desk,17,469.25,Store B,Wholesale,0.05,Bob,7578.3875,Credit Card
+2023-12-29,South,Chair,18,491.76,Store A,Wholesale,0.15,Eva,7523.928,Credit Card
+2025-01-08,Central,Chair,19,465.27,Store C,Retail,0.05,Diana,8398.1235,Credit Card
+2024-05-06,East,Chair,18,343.68,Store B,Retail,0,Eva,6186.24,Gift Card
+2024-09-15,North,Desk,14,472.51,Store D,Wholesale,0.05,Bob,6284.383,Gift Card
+2023-02-07,West,Laptop,20,142.52,Store A,Retail,0.1,Eva,2565.36,Cash
+2023-03-01,East,Phone,1,31.42,Store B,Retail,0.05,Bob,29.849,Credit Card
+2024-05-08,North,Tablet,17,572.29,Store D,Retail,0.15,Eva,8269.5905,Online
+2024-06-06,East,Desk,18,333.6,Store A,Retail,0.1,Carlos,5404.32,Debit Card
+2023-04-29,North,Chair,9,90.87,Store D,Retail,0.15,Carlos,695.1555,Debit Card
+2023-09-20,Central,Tablet,9,588.59,Store D,Wholesale,0.05,Diana,5032.4445,Online
+2024-11-08,South,Chair,18,153.28,Store B,Retail,0.05,Frank,2621.088,Online
+2023-03-22,North,Printer,17,194.97,Store A,Retail,0.15,Carlos,2817.3165,Gift Card
+2023-09-05,East,Monitor,5,367.61,Store C,Retail,0,Alice,1838.05,Credit Card
+2023-02-26,East,Laptop,17,575.5,Store D,Retail,0.05,Alice,9294.325,Debit Card
+2024-11-26,West,Chair,3,229.45,Store D,Retail,0.15,Bob,585.0975,Debit Card
+2024-10-14,Central,Chair,3,391.63,Store C,Retail,0,Frank,1174.89,Debit Card
+2023-05-29,Central,Laptop,15,67.35,Store D,Wholesale,0.1,Diana,909.225,Online
+2024-03-22,Central,Laptop,6,453.86,Store B,Retail,0.15,Alice,2314.686,Credit Card
+2023-04-22,South,Tablet,19,537.7,Store D,Wholesale,0,Bob,10216.3,Online
+2025-06-06,North,Phone,5,32.56,Store C,Retail,0.05,Diana,154.66,Cash
+2023-01-25,Central,Laptop,2,196.7,Store A,Retail,0,Frank,393.4,Online
+2023-09-08,South,Phone,12,369.45,Store D,Wholesale,0.1,Frank,3990.06,Credit Card
+2024-10-04,East,Tablet,12,181.96,Store D,Retail,0.15,Eva,1855.992,Gift Card
+2025-04-06,East,Desk,3,32.07,Store D,Retail,0.15,Alice,81.7785,Online
+2024-08-25,East,Laptop,15,39.93,Store A,Retail,0.15,Diana,509.1075,Debit Card
+2024-03-06,North,Phone,7,374.43,Store A,Retail,0.15,Carlos,2227.8585,Cash
+2023-03-23,East,Printer,2,101.87,Store C,Wholesale,0,Diana,203.74,Cash
+2024-01-13,Central,Tablet,13,343.45,Store D,Wholesale,0.05,Alice,4241.6075,Gift Card
+2023-07-18,Central,Printer,15,144.11,Store C,Retail,0,Frank,2161.65,Gift Card
+2025-02-23,West,Chair,18,403.68,Store A,Retail,0.15,Carlos,6176.304,Cash
+2023-02-22,East,Printer,14,346.57,Store B,Retail,0.1,Carlos,4366.782,Debit Card
+2024-10-18,North,Printer,7,392.79,Store C,Wholesale,0,Eva,2749.53,Gift Card
+2023-10-26,West,Printer,16,70.83,Store B,Wholesale,0.05,Carlos,1076.616,Gift Card
+2023-01-10,Central,Monitor,20,274.37,Store B,Retail,0.1,Eva,4938.66,Gift Card
+2024-03-19,Central,Desk,10,19.73,Store D,Retail,0.1,Carlos,177.57,Debit Card
+2023-12-20,Central,Printer,10,465.72,Store B,Wholesale,0.05,Alice,4424.34,Online
+2024-12-09,Central,Monitor,19,62.07,Store D,Retail,0.1,Diana,1061.397,Debit Card
+2023-05-10,Central,Tablet,11,529.2,Store A,Wholesale,0.05,Bob,5530.14,Credit Card
+2023-10-18,South,Monitor,7,387.31,Store A,Retail,0.1,Bob,2440.053,Cash
+2024-12-03,South,Phone,1,152.75,Store A,Wholesale,0,Bob,152.75,Credit Card
+2024-10-10,South,Chair,8,72.48,Store A,Wholesale,0.1,Carlos,521.856,Debit Card
+2024-06-03,East,Phone,4,194.09,Store D,Wholesale,0.1,Eva,698.724,Credit Card
+2025-03-26,South,Phone,3,159.3,Store B,Wholesale,0.05,Eva,454.005,Credit Card
+2024-04-26,North,Monitor,4,303.37,Store A,Retail,0.1,Carlos,1092.132,Gift Card
+2023-05-05,West,Chair,16,541.96,Store C,Retail,0.1,Eva,7804.224,Cash
+2023-09-23,West,Desk,7,41.57,Store D,Retail,0,Carlos,290.99,Online
+2025-03-08,South,Monitor,16,217.74,Store A,Wholesale,0.15,Frank,2961.264,Cash
+2023-01-17,North,Printer,15,19.17,Store A,Wholesale,0,Carlos,287.55,Gift Card
+2023-04-29,Central,Monitor,15,293.34,Store D,Retail,0.1,Eva,3960.09,Credit Card
+2025-02-16,South,Printer,18,204.58,Store C,Retail,0.1,Diana,3314.196,Cash
+2023-06-05,East,Printer,15,324.58,Store A,Retail,0.15,Diana,4138.395,Debit Card
+2023-08-28,South,Phone,11,393.61,Store D,Wholesale,0.05,Frank,4113.2245,Debit Card
+2023-08-01,North,Printer,8,141.28,Store D,Wholesale,0.05,Frank,1073.728,Online
+2025-02-12,West,Phone,13,227.64,Store C,Retail,0.15,Frank,2515.422,Cash
+2023-07-03,Central,Laptop,19,341.07,Store C,Retail,0.1,Carlos,5832.297,Cash
+2025-05-09,Central,Phone,20,324.55,Store B,Wholesale,0.05,Eva,6166.45,Credit Card
+2024-05-05,West,Desk,16,301.07,Store B,Retail,0.1,Carlos,4335.408,Gift Card
+2024-01-08,South,Monitor,13,285.28,Store D,Retail,0,Eva,3708.64,Gift Card
+2025-01-13,South,Phone,15,18.04,Store C,Wholesale,0,Eva,270.6,Credit Card
+2025-06-12,East,Printer,11,495.44,Store A,Wholesale,0,Bob,5449.84,Gift Card
+2025-04-03,North,Laptop,12,276.42,Store C,Retail,0.15,Carlos,2819.484,Online
+2023-01-26,Central,Desk,7,228.32,Store C,Wholesale,0.15,Eva,1358.504,Debit Card
+2023-01-07,Central,Monitor,1,498.19,Store A,Wholesale,0.1,Bob,448.371,Gift Card
+2025-01-15,North,Desk,18,375.83,Store C,Retail,0.1,Carlos,6088.446,Gift Card
+2024-11-30,East,Chair,18,130.36,Store B,Wholesale,0,Diana,2346.48,Debit Card
+2024-02-26,East,Monitor,13,585.88,Store B,Retail,0.15,Carlos,6473.974,Credit Card
+2025-06-11,North,Desk,19,278.04,Store B,Retail,0.05,Bob,5018.622,Credit Card
+2023-11-29,Central,Phone,11,267.91,Store B,Retail,0,Eva,2947.01,Debit Card
+2024-06-27,South,Chair,12,369.54,Store B,Retail,0.05,Diana,4212.756,Debit Card
+2024-05-20,South,Monitor,13,284.3,Store A,Wholesale,0.05,Bob,3511.105,Online
+2023-06-17,West,Chair,12,427.1,Store C,Retail,0,Carlos,5125.2,Gift Card
+2024-11-06,East,Monitor,11,200.3,Store D,Retail,0.1,Eva,1982.97,Debit Card
+2025-02-12,North,Printer,4,75.8,Store C,Retail,0.15,Carlos,257.72,Credit Card
+2025-04-09,North,Monitor,4,518.43,Store A,Wholesale,0,Alice,2073.72,Online
+2024-08-18,North,Tablet,19,181.18,Store A,Wholesale,0.05,Carlos,3270.299,Credit Card
+2023-02-20,Central,Laptop,3,197.17,Store A,Wholesale,0.05,Frank,561.9345,Gift Card
+2025-04-28,North,Laptop,6,81.96,Store D,Wholesale,0.05,Diana,467.172,Credit Card
+2023-08-10,Central,Printer,3,59.78,Store C,Retail,0,Eva,179.34,Online
+2024-06-24,North,Tablet,12,211.66,Store A,Wholesale,0.1,Carlos,2285.928,Credit Card
+2023-08-06,Central,Printer,13,69.97,Store A,Wholesale,0.05,Alice,864.1295,Debit Card
+2024-11-26,East,Tablet,7,438.33,Store C,Retail,0.1,Frank,2761.479,Cash
+2025-02-06,East,Laptop,7,241.81,Store C,Wholesale,0.1,Alice,1523.403,Debit Card
+2025-03-20,East,Desk,3,466.64,Store A,Retail,0.15,Bob,1189.932,Online
+2024-09-10,South,Monitor,9,472.84,Store D,Retail,0.05,Alice,4042.782,Credit Card
+2025-02-20,South,Chair,19,586.49,Store A,Wholesale,0.1,Eva,10028.979,Cash
+2023-01-20,East,Chair,15,462.85,Store A,Retail,0.15,Diana,5901.3375,Credit Card
+2024-03-03,East,Laptop,1,176.17,Store C,Retail,0.05,Alice,167.3615,Debit Card
+2023-11-27,West,Printer,1,71.24,Store A,Retail,0.1,Carlos,64.116,Debit Card
+2024-11-10,East,Laptop,6,62.43,Store A,Wholesale,0,Diana,374.58,Gift Card
+2025-02-04,Central,Tablet,7,569.89,Store D,Wholesale,0.1,Alice,3590.307,Cash
+2024-02-21,East,Desk,5,34.06,Store D,Wholesale,0.05,Diana,161.785,Gift Card
+2023-03-24,East,Desk,17,502.6,Store A,Wholesale,0.1,Frank,7689.78,Cash
+2024-05-05,South,Printer,3,89.72,Store D,Wholesale,0.1,Alice,242.244,Gift Card
+2024-10-04,South,Laptop,18,403.53,Store D,Wholesale,0.1,Alice,6537.186,Online
+2025-01-04,South,Chair,2,194.97,Store A,Retail,0,Diana,389.94,Credit Card
+2024-12-23,Central,Printer,12,171.91,Store B,Retail,0.05,Eva,1959.774,Credit Card
+2023-01-29,Central,Laptop,17,535.88,Store A,Wholesale,0.05,Bob,8654.462,Gift Card
+2024-08-11,West,Chair,12,248.13,Store A,Retail,0.05,Alice,2828.682,Cash
+2023-11-25,North,Phone,2,482.1,Store C,Retail,0,Carlos,964.2,Online
+2025-03-04,North,Monitor,18,382.01,Store D,Wholesale,0.1,Alice,6188.562,Online
+2025-02-21,North,Phone,13,135.98,Store C,Wholesale,0,Frank,1767.74,Online
+2025-02-26,East,Desk,9,562.54,Store A,Wholesale,0,Alice,5062.86,Credit Card
+2024-03-29,East,Monitor,6,509.48,Store B,Wholesale,0,Alice,3056.88,Debit Card
+2025-05-28,West,Desk,3,470.09,Store B,Wholesale,0,Eva,1410.27,Gift Card
+2024-05-24,West,Printer,10,280.8,Store C,Retail,0,Alice,2808,Credit Card
+2023-05-12,South,Chair,9,251.43,Store C,Retail,0.1,Frank,2036.583,Credit Card
+2023-10-11,South,Phone,4,408.28,Store A,Retail,0.15,Alice,1388.152,Cash
+2024-01-25,North,Printer,2,27.43,Store B,Retail,0.15,Frank,46.631,Online
+2023-02-03,East,Phone,11,321.72,Store A,Retail,0.1,Carlos,3185.028,Online
+2024-07-08,North,Desk,5,186.32,Store A,Wholesale,0.1,Carlos,838.44,Gift Card
+2025-05-31,South,Monitor,3,390.28,Store B,Retail,0,Frank,1170.84,Online
+2023-11-09,South,Monitor,13,174.9,Store A,Wholesale,0.15,Carlos,1932.645,Online
+2023-07-06,North,Chair,8,419.13,Store A,Retail,0.1,Alice,3017.736,Online
+2023-07-14,North,Chair,12,116.96,Store D,Wholesale,0,Alice,1403.52,Gift Card
+2023-11-13,West,Chair,11,323.72,Store A,Wholesale,0.1,Bob,3204.828,Gift Card
+2025-02-02,West,Tablet,11,155.49,Store D,Retail,0.05,Frank,1624.8705,Cash
+2024-05-06,South,Printer,20,270.2,Store A,Wholesale,0,Diana,5404,Credit Card
+2024-10-17,South,Printer,15,482.08,Store D,Retail,0.1,Eva,6508.08,Debit Card
+2025-01-29,North,Laptop,11,431.51,Store C,Wholesale,0.1,Carlos,4271.949,Debit Card
+2025-03-23,Central,Chair,5,302.76,Store D,Wholesale,0,Carlos,1513.8,Gift Card
+2024-04-11,West,Chair,19,344.92,Store C,Wholesale,0,Eva,6553.48,Cash
+2024-05-03,Central,Chair,7,511.46,Store C,Retail,0.1,Eva,3222.198,Cash
+2024-10-14,East,Monitor,7,150.6,Store A,Wholesale,0.15,Bob,896.07,Cash
+2024-02-08,West,Phone,8,158.02,Store C,Wholesale,0.15,Diana,1074.536,Credit Card
+2023-05-10,Central,Tablet,2,536.18,Store B,Retail,0.1,Frank,965.124,Credit Card
+2023-03-03,North,Chair,16,571.26,Store C,Wholesale,0.15,Bob,7769.136,Gift Card
+2025-05-21,Central,Tablet,12,134.42,Store D,Retail,0.1,Diana,1451.736,Gift Card
+2025-04-30,Central,Laptop,5,563.7,Store A,Retail,0,Bob,2818.5,Online
+2023-04-02,North,Phone,11,546.57,Store D,Retail,0.15,Bob,5110.4295,Credit Card
+2024-08-26,North,Monitor,9,364.88,Store C,Wholesale,0.05,Bob,3119.724,Cash
+2023-11-10,South,Monitor,7,368.27,Store C,Wholesale,0.15,Carlos,2191.2065,Online
+2025-01-27,Central,Printer,20,537.28,Store C,Wholesale,0,Frank,10745.6,Online
+2024-04-26,South,Phone,3,103.09,Store D,Wholesale,0,Carlos,309.27,Gift Card
+2023-11-27,East,Tablet,9,97.56,Store A,Wholesale,0,Alice,878.04,Online
+2023-03-30,Central,Tablet,10,338.75,Store A,Wholesale,0.15,Carlos,2879.375,Cash
+2024-03-04,North,Desk,2,239.04,Store A,Wholesale,0,Bob,478.08,Debit Card
+2023-07-11,South,Laptop,14,362.44,Store C,Wholesale,0.1,Bob,4566.744,Cash
+2024-09-20,West,Monitor,6,551.13,Store D,Retail,0,Carlos,3306.78,Gift Card
+2025-02-18,West,Laptop,1,82.06,Store D,Retail,0.1,Eva,73.854,Credit Card
+2024-07-16,East,Tablet,7,498.46,Store C,Wholesale,0.15,Carlos,2965.837,Gift Card
+2023-11-23,East,Chair,2,253.41,Store D,Retail,0.1,Frank,456.138,Cash
+2023-09-07,South,Phone,16,144.07,Store D,Wholesale,0.1,Eva,2074.608,Debit Card
+2024-02-01,West,Monitor,11,201.09,Store C,Retail,0.15,Carlos,1880.1915,Cash
+2025-05-08,South,Chair,11,585.45,Store D,Wholesale,0.1,Alice,5795.955,Credit Card
+2025-01-17,North,Laptop,3,448.77,Store A,Retail,0,Alice,1346.31,Online
+2023-09-02,East,Monitor,9,184.43,Store D,Wholesale,0,Carlos,1659.87,Online
+2023-06-23,Central,Laptop,16,594.1,Store D,Retail,0,Bob,9505.6,Gift Card
+2024-01-20,East,Laptop,19,482.07,Store B,Wholesale,0.1,Bob,8243.397,Credit Card
+2024-06-26,East,Chair,20,75.45,Store B,Wholesale,0.05,Eva,1433.55,Credit Card
+2024-12-12,Central,Monitor,2,494.22,Store C,Retail,0.1,Carlos,889.596,Gift Card
+2024-02-21,East,Laptop,15,112.82,Store B,Wholesale,0.05,Frank,1607.685,Credit Card
+2023-07-18,East,Desk,3,121.56,Store D,Wholesale,0,Eva,364.68,Debit Card
+2024-10-02,North,Desk,12,465.94,Store D,Wholesale,0,Alice,5591.28,Credit Card
+2024-12-01,West,Phone,12,187.8,Store D,Wholesale,0.15,Diana,1915.56,Online
+2024-09-03,East,Desk,1,561.3,Store D,Retail,0.15,Frank,477.105,Gift Card
+2025-02-22,West,Printer,7,178.26,Store C,Retail,0.15,Bob,1060.647,Online
+2025-05-11,West,Monitor,20,552.83,Store D,Retail,0.15,Eva,9398.11,Online
+2024-12-20,Central,Tablet,2,458.25,Store B,Wholesale,0,Eva,916.5,Gift Card
+2023-04-18,East,Laptop,2,129.43,Store D,Retail,0.05,Alice,245.917,Debit Card
+2024-08-29,East,Printer,19,448.21,Store C,Wholesale,0.1,Alice,7664.391,Debit Card
+2023-09-03,North,Desk,16,440.48,Store B,Retail,0.05,Frank,6695.296,Cash
+2025-05-19,East,Laptop,8,262.62,Store C,Wholesale,0,Alice,2100.96,Cash
+2023-06-18,East,Tablet,15,124.91,Store A,Wholesale,0.1,Eva,1686.285,Gift Card
+2025-06-18,West,Monitor,9,391,Store D,Wholesale,0.1,Eva,3167.1,Debit Card
+2024-09-29,South,Laptop,12,204.15,Store C,Retail,0.05,Alice,2327.31,Debit Card
+2024-02-25,East,Laptop,20,13.64,Store C,Retail,0.15,Frank,231.88,Credit Card
+2024-03-21,North,Printer,14,524.9,Store C,Wholesale,0.05,Alice,6981.17,Cash
+2024-02-03,North,Laptop,8,143.95,Store B,Retail,0.1,Diana,1036.44,Cash
+2023-11-21,South,Laptop,2,576.84,Store D,Retail,0.1,Frank,1038.312,Credit Card
+2023-01-10,West,Chair,14,250.98,Store C,Retail,0,Eva,3513.72,Debit Card
+2023-02-06,Central,Phone,7,335.41,Store C,Retail,0,Bob,2347.87,Online
+2025-04-10,North,Printer,11,204.5,Store A,Retail,0,Eva,2249.5,Debit Card
+2024-02-14,East,Tablet,1,542.63,Store A,Retail,0.05,Carlos,515.4985,Credit Card
+2025-05-26,East,Phone,1,204.54,Store D,Retail,0.1,Carlos,184.086,Online
+2023-09-12,West,Chair,10,419.58,Store A,Wholesale,0.15,Eva,3566.43,Debit Card
+2023-05-17,East,Desk,7,87.88,Store C,Wholesale,0.15,Alice,522.886,Online
+2024-01-29,West,Printer,7,386.88,Store B,Wholesale,0.05,Carlos,2572.752,Cash
+2025-05-09,North,Desk,4,242.8,Store D,Wholesale,0.05,Diana,922.64,Debit Card
+2024-04-05,East,Printer,4,410.59,Store A,Retail,0,Eva,1642.36,Cash
+2024-08-01,South,Chair,3,10.93,Store D,Wholesale,0.15,Eva,27.8715,Cash
+2024-07-10,South,Chair,20,150.16,Store C,Wholesale,0,Bob,3003.2,Cash
+2024-06-15,East,Chair,1,394.41,Store B,Retail,0.1,Alice,354.969,Gift Card
+2024-05-22,East,Monitor,6,535.38,Store C,Wholesale,0.15,Alice,2730.438,Online
+2024-01-14,East,Monitor,19,407.82,Store D,Retail,0.05,Diana,7361.151,Gift Card
+2024-10-31,North,Tablet,16,120.83,Store B,Retail,0.05,Carlos,1836.616,Cash
+2024-04-23,West,Printer,7,39.53,Store D,Retail,0.1,Carlos,249.039,Debit Card
+2023-06-14,South,Tablet,2,224.08,Store A,Retail,0.05,Frank,425.752,Credit Card
+2024-02-28,North,Printer,11,382.08,Store D,Wholesale,0.05,Frank,3992.736,Cash
+2024-06-19,South,Printer,9,88.49,Store D,Wholesale,0.05,Diana,756.5895,Online
+2023-03-18,Central,Tablet,20,139.1,Store C,Wholesale,0.05,Carlos,2642.9,Online
+2023-03-21,West,Desk,19,322.35,Store D,Wholesale,0.1,Alice,5512.185,Debit Card
+2024-05-28,East,Printer,16,334.55,Store B,Wholesale,0.1,Eva,4817.52,Credit Card
+2023-03-27,West,Desk,20,332.48,Store B,Wholesale,0,Eva,6649.6,Online
+2023-06-19,Central,Printer,1,123.4,Store A,Retail,0,Eva,123.4,Cash
+2023-10-31,South,Laptop,3,88.26,Store D,Wholesale,0.05,Bob,251.541,Debit Card
+2023-07-11,West,Phone,13,50.51,Store D,Wholesale,0.1,Alice,590.967,Debit Card
+2023-05-19,South,Monitor,11,237.99,Store D,Wholesale,0.05,Bob,2486.9955,Debit Card
+2023-08-05,North,Chair,7,294.95,Store D,Wholesale,0,Frank,2064.65,Online
+2023-03-24,West,Desk,8,384.3,Store C,Wholesale,0.1,Frank,2766.96,Gift Card
+2025-02-14,West,Monitor,1,378.35,Store C,Wholesale,0.05,Diana,359.4325,Cash
+2024-12-14,North,Desk,1,461.35,Store D,Retail,0,Bob,461.35,Debit Card
+2023-06-28,South,Printer,20,354.9,Store A,Wholesale,0,Bob,7098,Gift Card
+2023-01-24,West,Desk,7,438.41,Store C,Retail,0.1,Diana,2761.983,Debit Card
+2024-06-21,Central,Tablet,14,542.6,Store C,Retail,0.05,Eva,7216.58,Debit Card
+2025-04-09,North,Printer,3,238.82,Store C,Retail,0.1,Bob,644.814,Gift Card
+2025-01-11,North,Tablet,16,332.19,Store C,Retail,0.1,Eva,4783.536,Credit Card
+2024-07-13,Central,Printer,9,454.6,Store D,Wholesale,0.05,Carlos,3886.83,Debit Card
+2025-01-04,West,Printer,6,540.54,Store A,Retail,0.05,Carlos,3081.078,Debit Card
+2023-10-25,West,Desk,14,147.37,Store D,Wholesale,0.15,Frank,1753.703,Debit Card
+2023-09-30,South,Laptop,7,421.12,Store D,Wholesale,0.15,Diana,2505.664,Gift Card
+2023-03-16,North,Phone,20,436.32,Store D,Retail,0,Diana,8726.4,Credit Card
+2023-07-26,North,Laptop,18,436.83,Store A,Wholesale,0.1,Bob,7076.646,Credit Card
+2023-07-10,East,Monitor,2,327.57,Store A,Retail,0.05,Diana,622.383,Debit Card
+2024-08-06,East,Printer,18,166.92,Store C,Wholesale,0.05,Alice,2854.332,Gift Card
+2024-07-16,Central,Phone,14,300.38,Store A,Retail,0.1,Alice,3784.788,Online
+2024-01-31,North,Printer,5,232.29,Store A,Wholesale,0,Alice,1161.45,Online
+2023-04-22,Central,Tablet,1,173.44,Store A,Retail,0,Bob,173.44,Gift Card
+2025-02-04,East,Phone,9,256.14,Store A,Retail,0.15,Frank,1959.471,Credit Card
+2024-08-25,Central,Laptop,12,461.3,Store D,Wholesale,0.15,Diana,4705.26,Gift Card
+2023-08-30,East,Phone,1,193.08,Store A,Wholesale,0.05,Frank,183.426,Online
+2023-09-06,West,Chair,3,312.97,Store C,Retail,0.05,Eva,891.9645,Credit Card
+2025-05-13,South,Laptop,6,214.14,Store D,Wholesale,0.05,Diana,1220.598,Cash
+2023-10-29,North,Phone,4,59.8,Store D,Retail,0.1,Frank,215.28,Online
+2024-06-12,East,Laptop,9,418,Store C,Wholesale,0,Bob,3762,Credit Card
+2023-02-02,South,Chair,1,80.96,Store A,Wholesale,0,Bob,80.96,Credit Card
+2023-05-04,East,Phone,20,42.12,Store B,Wholesale,0.15,Alice,716.04,Credit Card
+2023-05-24,West,Monitor,3,366.65,Store D,Wholesale,0,Carlos,1099.95,Credit Card
+2023-02-03,West,Monitor,19,534.92,Store D,Retail,0,Diana,10163.48,Online
+2023-12-25,East,Chair,1,494.52,Store D,Retail,0,Bob,494.52,Credit Card
+2023-07-26,East,Monitor,6,344.67,Store D,Wholesale,0.1,Diana,1861.218,Online
+2024-06-06,Central,Monitor,12,489.14,Store D,Retail,0.15,Bob,4989.228,Online
+2024-10-13,South,Printer,18,256.23,Store B,Wholesale,0.05,Eva,4381.533,Debit Card
+2024-11-03,North,Printer,17,99.76,Store C,Wholesale,0,Diana,1695.92,Online
+2024-02-03,North,Printer,14,575.66,Store C,Wholesale,0.1,Frank,7253.316,Credit Card
+2023-01-10,East,Chair,6,176.52,Store D,Wholesale,0.15,Alice,900.252,Online
+2023-10-16,East,Tablet,6,485.66,Store D,Wholesale,0.05,Eva,2768.262,Gift Card
+2025-03-19,Central,Laptop,8,141.61,Store B,Retail,0.1,Bob,1019.592,Gift Card
+2024-12-16,West,Desk,9,215.29,Store C,Wholesale,0.1,Alice,1743.849,Credit Card
+2023-08-16,West,Laptop,18,497.22,Store B,Wholesale,0.05,Diana,8502.462,Credit Card
+2023-01-10,East,Desk,13,347.73,Store B,Wholesale,0.05,Diana,4294.4655,Gift Card
+2025-05-09,Central,Chair,3,371.21,Store C,Wholesale,0.1,Eva,1002.267,Gift Card
+2024-04-08,East,Printer,12,434.33,Store A,Wholesale,0.15,Bob,4430.166,Cash
+2025-05-06,East,Monitor,16,426.65,Store A,Retail,0.1,Diana,6143.76,Gift Card
+2023-05-21,West,Desk,6,294.97,Store A,Wholesale,0.05,Bob,1681.329,Credit Card
+2023-11-23,Central,Phone,12,130.9,Store D,Retail,0.15,Alice,1335.18,Debit Card
+2024-03-26,North,Monitor,18,539.98,Store C,Retail,0.15,Eva,8261.694,Cash
+2024-09-25,South,Desk,12,149.37,Store D,Retail,0.1,Bob,1613.196,Credit Card
+2023-04-06,East,Chair,5,411.24,Store A,Wholesale,0.15,Bob,1747.77,Cash
+2024-06-24,North,Chair,16,462.86,Store D,Retail,0.05,Bob,7035.472,Cash
+2024-12-15,South,Laptop,17,506.38,Store B,Wholesale,0,Carlos,8608.46,Cash
+2024-10-03,North,Desk,19,25.61,Store B,Retail,0,Bob,486.59,Gift Card
+2023-09-03,South,Desk,4,467.45,Store C,Wholesale,0.05,Frank,1776.31,Gift Card
+2023-01-29,North,Printer,10,140.5,Store B,Retail,0.15,Carlos,1194.25,Online
+2024-06-12,North,Phone,8,57.85,Store D,Wholesale,0,Frank,462.8,Online
+2024-11-24,North,Monitor,9,539.64,Store A,Retail,0.15,Alice,4128.246,Gift Card
+2023-08-15,West,Monitor,18,476.32,Store A,Wholesale,0,Diana,8573.76,Credit Card
+2024-08-21,Central,Tablet,11,143.85,Store A,Wholesale,0.1,Eva,1424.115,Debit Card
+2023-05-24,West,Monitor,4,323.63,Store C,Retail,0.1,Carlos,1165.068,Credit Card
+2023-04-27,West,Monitor,16,37.4,Store A,Wholesale,0.05,Bob,568.48,Credit Card
+2023-05-21,East,Tablet,1,418.98,Store B,Retail,0.1,Carlos,377.082,Gift Card
+2025-02-16,East,Monitor,12,108.35,Store A,Wholesale,0,Diana,1300.2,Online
+2023-08-24,East,Tablet,5,256.42,Store B,Retail,0,Alice,1282.1,Gift Card
+2024-03-14,East,Desk,16,544.91,Store B,Retail,0.1,Frank,7846.704,Credit Card
+2024-01-29,North,Desk,19,113.42,Store A,Retail,0,Eva,2154.98,Debit Card
+2024-08-09,South,Phone,10,522.73,Store C,Retail,0.1,Bob,4704.57,Credit Card
+2024-07-08,North,Tablet,18,448.03,Store B,Retail,0.15,Frank,6854.859,Cash
+2024-08-20,North,Monitor,15,208.51,Store A,Retail,0.05,Carlos,2971.2675,Gift Card
+2023-06-26,Central,Laptop,13,423.64,Store C,Retail,0.1,Alice,4956.588,Debit Card
+2023-12-23,East,Chair,5,552.26,Store D,Wholesale,0.15,Alice,2347.105,Debit Card
+2023-08-20,Central,Desk,1,182.11,Store A,Retail,0.1,Carlos,163.899,Credit Card
+2024-10-28,West,Desk,7,466.36,Store D,Wholesale,0.05,Bob,3101.294,Online
+2024-11-11,East,Printer,15,140.54,Store A,Wholesale,0.1,Eva,1897.29,Credit Card
+2023-12-07,West,Desk,17,460.31,Store A,Retail,0.15,Diana,6651.4795,Online
+2024-03-23,West,Laptop,5,132.87,Store B,Retail,0,Bob,664.35,Debit Card
+2024-10-29,West,Tablet,12,209.86,Store D,Retail,0.05,Bob,2392.404,Online
+2025-06-17,East,Laptop,9,31.35,Store B,Retail,0.1,Diana,253.935,Cash
+2023-03-18,North,Chair,11,335.11,Store C,Retail,0,Frank,3686.21,Gift Card
+2023-01-19,East,Phone,8,277.43,Store D,Wholesale,0,Carlos,2219.44,Online
+2023-07-09,West,Desk,6,287.72,Store A,Retail,0.05,Bob,1640.004,Debit Card
+2025-03-16,East,Laptop,14,459.61,Store B,Retail,0.05,Frank,6112.813,Online
+2025-02-08,North,Tablet,10,396.73,Store B,Retail,0.1,Eva,3570.57,Online
+2024-04-20,South,Printer,20,516.43,Store B,Retail,0,Bob,10328.6,Online
+2025-06-05,East,Laptop,1,299.66,Store A,Retail,0.1,Diana,269.694,Cash
+2025-04-25,South,Chair,12,31.72,Store B,Retail,0,Alice,380.64,Debit Card
+2023-09-06,Central,Phone,17,588.58,Store D,Wholesale,0.05,Diana,9505.567,Debit Card
+2023-09-29,East,Laptop,11,203.15,Store C,Retail,0.1,Eva,2011.185,Online
+2024-05-21,Central,Monitor,18,139.14,Store A,Wholesale,0,Carlos,2504.52,Online
+2025-04-13,West,Monitor,2,158.99,Store A,Wholesale,0,Bob,317.98,Online
+2024-11-16,East,Chair,3,387.63,Store A,Wholesale,0,Diana,1162.89,Credit Card
+2024-07-20,North,Desk,5,202.12,Store A,Retail,0.1,Diana,909.54,Online
+2023-05-20,North,Desk,4,334.57,Store C,Retail,0.15,Carlos,1137.538,Gift Card
+2023-10-22,West,Phone,16,486.71,Store B,Wholesale,0.15,Carlos,6619.256,Online
+2025-05-18,North,Monitor,2,188.29,Store D,Wholesale,0.15,Bob,320.093,Credit Card
+2024-03-03,South,Laptop,3,260.72,Store B,Wholesale,0.15,Frank,664.836,Online
+2023-07-23,East,Desk,6,358.27,Store B,Retail,0.1,Frank,1934.658,Gift Card
+2025-02-09,North,Desk,13,492.66,Store B,Retail,0.1,Frank,5764.122,Gift Card
+2023-01-17,South,Chair,3,348.38,Store B,Wholesale,0,Carlos,1045.14,Gift Card
+2023-09-17,North,Phone,6,437.59,Store D,Wholesale,0.05,Diana,2494.263,Gift Card
+2025-02-15,North,Printer,19,118.09,Store D,Wholesale,0.1,Alice,2019.339,Online
+2023-10-07,West,Tablet,15,188.57,Store C,Wholesale,0.05,Bob,2687.1225,Credit Card
+2023-08-08,West,Phone,8,200.74,Store A,Wholesale,0,Diana,1605.92,Gift Card
+2023-08-21,East,Laptop,3,142.09,Store C,Wholesale,0.15,Frank,362.3295,Gift Card
+2024-07-07,North,Tablet,15,576.12,Store D,Retail,0.1,Alice,7777.62,Online
+2025-01-17,South,Desk,9,96.97,Store D,Retail,0.15,Bob,741.8205,Credit Card
+2023-12-06,North,Tablet,17,218.04,Store D,Wholesale,0.15,Bob,3150.678,Cash
+2023-03-01,South,Desk,2,153.33,Store C,Wholesale,0.05,Carlos,291.327,Cash
+2025-02-11,North,Printer,8,316.12,Store B,Wholesale,0.1,Diana,2276.064,Gift Card
+2023-06-20,Central,Printer,13,153.57,Store B,Wholesale,0.05,Carlos,1896.5895,Gift Card
+2024-02-29,West,Printer,7,208.31,Store C,Wholesale,0.05,Frank,1385.2615,Online
+2025-06-30,North,Chair,2,160.96,Store C,Wholesale,0.1,Eva,289.728,Gift Card
+2024-08-19,North,Monitor,3,373.77,Store B,Retail,0.1,Eva,1009.179,Cash
+2024-01-15,Central,Printer,20,200.7,Store D,Retail,0.1,Alice,3612.6,Online
+2024-08-08,Central,Desk,14,115.77,Store B,Wholesale,0.15,Frank,1377.663,Credit Card
+2024-10-05,West,Phone,12,535.41,Store C,Retail,0.1,Frank,5782.428,Gift Card
+2024-01-13,South,Desk,12,103.59,Store A,Retail,0.1,Frank,1118.772,Debit Card
+2023-03-29,West,Laptop,18,176.32,Store B,Wholesale,0.05,Diana,3015.072,Debit Card
+2023-10-19,North,Printer,5,112.44,Store D,Retail,0.1,Bob,505.98,Credit Card
+2023-10-23,West,Chair,20,19.3,Store C,Wholesale,0,Bob,386,Debit Card
+2023-03-24,South,Phone,9,233.11,Store B,Retail,0.05,Eva,1993.0905,Debit Card
+2024-08-09,West,Printer,17,66.48,Store C,Wholesale,0.15,Eva,960.636,Gift Card
+2023-04-26,South,Laptop,17,504.63,Store A,Wholesale,0.1,Carlos,7720.839,Online
+2024-03-04,West,Tablet,11,97.84,Store B,Retail,0.05,Alice,1022.428,Debit Card
+2023-02-14,East,Tablet,7,468.14,Store A,Retail,0.15,Bob,2785.433,Cash
+2023-04-28,West,Tablet,20,476.69,Store B,Wholesale,0.05,Bob,9057.11,Online
+2024-03-03,North,Phone,2,160.73,Store A,Wholesale,0.15,Frank,273.241,Cash
+2024-09-04,West,Tablet,9,228.98,Store D,Retail,0.15,Frank,1751.697,Online
+2024-12-30,East,Tablet,19,336.5,Store B,Wholesale,0,Alice,6393.5,Online
+2024-02-10,East,Printer,18,411.59,Store A,Wholesale,0,Bob,7408.62,Credit Card
+2023-09-07,Central,Printer,1,431.49,Store C,Wholesale,0.15,Alice,366.7665,Cash
+2023-08-11,East,Laptop,18,495.39,Store A,Wholesale,0,Carlos,8917.02,Gift Card
+2023-03-12,West,Phone,4,149.3,Store A,Wholesale,0.1,Diana,537.48,Debit Card
+2023-03-29,Central,Desk,18,179.97,Store C,Wholesale,0.1,Eva,2915.514,Cash
+2025-02-17,South,Chair,11,381.14,Store B,Retail,0.05,Frank,3982.913,Gift Card
+2024-01-07,North,Chair,5,454.62,Store C,Wholesale,0.05,Diana,2159.445,Gift Card
+2023-01-14,East,Phone,17,226.56,Store A,Wholesale,0.1,Diana,3466.368,Gift Card
+2024-01-03,West,Laptop,2,132.91,Store A,Wholesale,0,Bob,265.82,Debit Card
+2023-08-25,South,Desk,2,35.69,Store C,Retail,0,Eva,71.38,Debit Card
+2025-05-16,North,Desk,6,451.93,Store A,Wholesale,0.15,Eva,2304.843,Cash
+2023-12-30,South,Laptop,7,270.47,Store D,Wholesale,0.05,Diana,1798.6255,Credit Card
+2024-10-06,South,Phone,13,55.46,Store A,Retail,0.05,Bob,684.931,Credit Card
+2023-03-12,Central,Tablet,17,515.12,Store D,Wholesale,0.15,Bob,7443.484,Credit Card
+2024-04-06,North,Phone,1,256.63,Store D,Wholesale,0,Carlos,256.63,Gift Card
+2023-01-20,North,Tablet,4,423.99,Store B,Retail,0.05,Frank,1611.162,Online
+2024-07-08,West,Laptop,15,77.89,Store B,Wholesale,0.05,Diana,1109.9325,Credit Card
+2023-10-06,North,Phone,12,11.95,Store A,Retail,0.05,Carlos,136.23,Online
+2023-09-11,East,Desk,7,67.05,Store D,Wholesale,0.1,Carlos,422.415,Cash
+2023-09-14,North,Phone,19,118.15,Store C,Retail,0.15,Frank,1908.1225,Cash
+2023-11-06,North,Printer,16,114.47,Store B,Wholesale,0.15,Carlos,1556.792,Online
+2024-06-23,North,Monitor,9,36.21,Store C,Wholesale,0.15,Bob,277.0065,Credit Card
+2023-03-30,West,Printer,10,52.58,Store B,Wholesale,0.1,Eva,473.22,Cash
+2024-10-05,East,Phone,6,272.26,Store A,Retail,0.1,Carlos,1470.204,Debit Card
+2023-03-19,Central,Chair,10,124.97,Store D,Retail,0.15,Eva,1062.245,Gift Card
+2025-03-17,North,Phone,9,228.62,Store C,Retail,0.05,Eva,1954.701,Gift Card
+2024-12-18,Central,Laptop,20,282.91,Store A,Wholesale,0.15,Frank,4809.47,Debit Card
+2025-01-06,West,Tablet,17,129.62,Store D,Retail,0.15,Eva,1873.009,Online
+2025-01-14,Central,Monitor,6,162.35,Store B,Wholesale,0.05,Eva,925.395,Credit Card
+2023-01-26,South,Printer,14,209.82,Store B,Wholesale,0,Eva,2937.48,Cash
+2024-08-04,North,Laptop,16,293.44,Store D,Wholesale,0.05,Diana,4460.288,Gift Card
+2024-02-13,North,Phone,11,185.52,Store D,Wholesale,0.15,Diana,1734.612,Credit Card
+2023-02-11,Central,Desk,18,268.38,Store D,Wholesale,0.15,Alice,4106.214,Cash
+2024-06-17,East,Printer,18,547.05,Store C,Wholesale,0.1,Carlos,8862.21,Cash
+2024-06-06,South,Laptop,1,354.21,Store A,Wholesale,0.15,Carlos,301.0785,Online
+2023-11-26,South,Chair,18,250.93,Store C,Wholesale,0.05,Bob,4290.903,Gift Card
+2024-04-07,West,Printer,18,587.25,Store C,Wholesale,0.15,Carlos,8984.925,Online
+2023-02-03,West,Desk,2,438.06,Store B,Retail,0,Frank,876.12,Online
+2024-11-25,East,Chair,14,6.1,Store C,Wholesale,0.15,Carlos,72.59,Online
+2024-06-30,North,Laptop,2,80.14,Store D,Wholesale,0,Carlos,160.28,Online
+2023-08-02,South,Laptop,11,66.97,Store A,Retail,0.15,Bob,626.1695,Gift Card
+2024-02-22,South,Chair,6,181.34,Store A,Wholesale,0,Alice,1088.04,Cash
+2024-11-29,North,Monitor,15,570,Store D,Wholesale,0.05,Frank,8122.5,Gift Card
+2023-07-21,North,Monitor,9,587.79,Store D,Wholesale,0.15,Bob,4496.5935,Online
+2023-04-14,Central,Phone,6,196.31,Store C,Retail,0.1,Carlos,1060.074,Online
+2023-02-01,North,Phone,8,430.06,Store B,Wholesale,0.05,Bob,3268.456,Debit Card
+2024-06-30,East,Monitor,14,429.72,Store A,Retail,0.1,Eva,5414.472,Cash
+2023-10-18,Central,Phone,13,127.34,Store D,Wholesale,0,Alice,1655.42,Credit Card
+2024-07-04,East,Monitor,6,421.97,Store B,Wholesale,0.05,Bob,2405.229,Cash
+2024-07-04,East,Tablet,5,225.69,Store A,Wholesale,0.15,Carlos,959.1825,Gift Card
+2023-07-27,North,Monitor,10,322.11,Store A,Retail,0.15,Diana,2737.935,Debit Card
+2025-03-01,West,Desk,4,209.3,Store B,Retail,0.05,Alice,795.34,Gift Card
+2023-02-23,Central,Desk,16,326.16,Store C,Wholesale,0.1,Frank,4696.704,Credit Card
+2023-01-11,East,Monitor,13,515.42,Store D,Retail,0,Bob,6700.46,Online
+2024-04-16,West,Tablet,7,129.83,Store A,Wholesale,0,Carlos,908.81,Gift Card
+2024-03-09,Central,Monitor,17,376.15,Store C,Retail,0.05,Diana,6074.8225,Gift Card
+2024-10-07,South,Chair,8,385.46,Store A,Wholesale,0,Bob,3083.68,Cash
+2023-10-06,West,Printer,2,474.13,Store D,Wholesale,0,Carlos,948.26,Gift Card
+2023-04-08,West,Monitor,15,506.17,Store B,Wholesale,0.05,Alice,7212.9225,Online
+2024-02-20,South,Phone,1,67.38,Store D,Retail,0.15,Alice,57.273,Credit Card
+2023-01-30,West,Chair,15,274.3,Store B,Retail,0.15,Frank,3497.325,Credit Card
+2023-05-12,South,Monitor,2,334.48,Store B,Wholesale,0,Alice,668.96,Debit Card
+2024-01-08,South,Chair,7,562.6,Store A,Retail,0.15,Eva,3347.47,Online
+2024-06-05,North,Monitor,7,14.34,Store D,Retail,0.05,Alice,95.361,Debit Card
+2025-05-21,East,Phone,11,34.72,Store B,Wholesale,0.1,Diana,343.728,Gift Card
+2025-05-21,East,Chair,7,15.06,Store A,Retail,0,Alice,105.42,Cash
+2023-03-05,East,Printer,11,488.17,Store B,Wholesale,0.05,Bob,5101.3765,Cash
+2024-10-27,South,Tablet,10,268.39,Store B,Retail,0.05,Alice,2549.705,Credit Card
+2025-03-24,North,Tablet,5,64.18,Store C,Retail,0.1,Eva,288.81,Gift Card
+2024-09-21,West,Phone,15,466.55,Store A,Retail,0.05,Alice,6648.3375,Cash
+2025-05-18,North,Desk,8,505.34,Store B,Retail,0.05,Bob,3840.584,Debit Card
+2024-07-11,East,Monitor,6,100.75,Store A,Wholesale,0.1,Frank,544.05,Credit Card
+2025-01-27,North,Tablet,8,352.72,Store C,Retail,0.05,Carlos,2680.672,Cash
+2023-11-26,East,Laptop,9,526.26,Store B,Retail,0,Bob,4736.34,Cash
+2024-06-02,Central,Printer,18,519.42,Store C,Retail,0.15,Eva,7947.126,Cash
+2023-01-17,North,Chair,18,108.46,Store D,Wholesale,0.05,Frank,1854.666,Online
+2025-05-03,North,Desk,13,420.68,Store D,Wholesale,0.05,Frank,5195.398,Online
+2025-01-05,North,Printer,17,5.91,Store A,Wholesale,0.15,Eva,85.3995,Online
+2024-02-20,East,Phone,4,452.77,Store B,Retail,0,Diana,1811.08,Debit Card
+2023-12-26,North,Monitor,7,157,Store A,Wholesale,0.15,Alice,934.15,Online
+2023-03-07,North,Printer,11,550.86,Store C,Retail,0.1,Bob,5453.514,Online
+2024-09-13,North,Chair,5,172.65,Store C,Wholesale,0.15,Alice,733.7625,Cash
+2024-01-02,East,Tablet,16,145.3,Store B,Wholesale,0,Eva,2324.8,Credit Card
+2025-02-08,South,Printer,10,67.38,Store C,Retail,0.1,Diana,606.42,Gift Card
+2025-03-04,South,Printer,15,141.13,Store D,Wholesale,0,Carlos,2116.95,Cash
+2024-03-12,Central,Tablet,1,534.61,Store D,Retail,0.05,Frank,507.8795,Online
+2024-07-03,East,Phone,9,560.04,Store D,Retail,0.05,Carlos,4788.342,Gift Card
+2025-01-05,North,Laptop,8,275.32,Store D,Retail,0.1,Diana,1982.304,Cash
+2024-03-21,East,Phone,3,105.73,Store D,Retail,0.05,Bob,301.3305,Debit Card
+2025-03-28,Central,Monitor,15,568.81,Store D,Retail,0.1,Frank,7678.935,Gift Card
+2025-04-13,Central,Laptop,20,190.39,Store B,Retail,0.1,Bob,3427.02,Gift Card
+2024-04-30,West,Chair,19,433.39,Store C,Retail,0.05,Bob,7822.6895,Online
+2025-02-15,South,Phone,1,92.72,Store C,Wholesale,0.15,Eva,78.812,Debit Card
+2025-02-18,West,Laptop,1,263.28,Store D,Wholesale,0.1,Eva,236.952,Credit Card
+2023-09-08,West,Phone,11,358.59,Store B,Wholesale,0,Frank,3944.49,Credit Card
+2024-02-04,Central,Tablet,18,595.53,Store B,Retail,0,Frank,10719.54,Cash
+2024-11-25,North,Monitor,14,574.32,Store D,Wholesale,0.15,Diana,6834.408,Credit Card
+2024-12-30,North,Laptop,18,444.13,Store D,Retail,0,Frank,7994.34,Cash
+2023-09-05,West,Tablet,19,431.47,Store A,Retail,0.1,Eva,7378.137,Gift Card
+2023-08-01,West,Printer,19,67.49,Store C,Retail,0,Frank,1282.31,Debit Card
+2023-01-06,Central,Tablet,11,25.67,Store C,Retail,0.15,Carlos,240.0145,Credit Card
+2025-05-02,Central,Phone,4,368.69,Store D,Wholesale,0,Diana,1474.76,Gift Card
+2023-12-21,West,Monitor,7,257.01,Store D,Retail,0.05,Eva,1709.1165,Credit Card
+2024-09-10,East,Laptop,14,85.54,Store B,Wholesale,0,Frank,1197.56,Gift Card
+2024-04-05,Central,Chair,9,267.6,Store D,Retail,0.15,Eva,2047.14,Credit Card
+2023-07-26,East,Desk,15,261.85,Store D,Wholesale,0.15,Diana,3338.5875,Online
+2023-11-12,East,Printer,11,199.57,Store A,Retail,0.05,Bob,2085.5065,Debit Card
+2025-04-18,Central,Phone,5,504.96,Store C,Retail,0.05,Diana,2398.56,Gift Card
+2023-08-12,South,Chair,8,28.34,Store C,Wholesale,0.05,Alice,215.384,Cash
+2024-12-12,West,Printer,17,495.13,Store D,Wholesale,0.1,Alice,7575.489,Online
+2025-05-07,West,Phone,14,142.05,Store D,Retail,0.05,Frank,1889.265,Gift Card
+2025-03-10,East,Chair,16,504.36,Store D,Wholesale,0,Bob,8069.76,Debit Card
+2025-06-01,East,Desk,7,122.2,Store B,Retail,0,Carlos,855.4,Credit Card
+2025-05-19,West,Chair,7,338.42,Store B,Retail,0.15,Alice,2013.599,Online
+2023-02-08,East,Tablet,4,224.75,Store D,Wholesale,0,Frank,899,Debit Card
+2025-04-24,Central,Desk,16,509.71,Store C,Wholesale,0.1,Carlos,7339.824,Cash
+2024-09-01,North,Tablet,14,297.56,Store B,Wholesale,0.1,Diana,3749.256,Debit Card
+2024-11-07,Central,Printer,13,365.11,Store C,Retail,0.05,Diana,4509.1085,Online
+2024-11-29,East,Chair,1,139.13,Store C,Wholesale,0,Carlos,139.13,Cash
+2023-04-10,West,Chair,6,543.89,Store C,Retail,0,Bob,3263.34,Cash
+2024-01-10,North,Printer,19,219.7,Store A,Retail,0,Alice,4174.3,Cash
+2025-05-17,South,Phone,6,94.34,Store C,Retail,0.05,Alice,537.738,Cash
+2024-07-26,Central,Laptop,9,486.58,Store A,Retail,0.15,Alice,3722.337,Online
+2024-12-26,South,Desk,12,578.86,Store D,Retail,0.15,Frank,5904.372,Cash
+2025-01-23,East,Tablet,7,196.88,Store C,Retail,0,Diana,1378.16,Debit Card
+2024-03-25,South,Phone,7,446.32,Store B,Wholesale,0.1,Alice,2811.816,Debit Card
+2025-03-04,Central,Tablet,11,447.38,Store D,Wholesale,0,Alice,4921.18,Gift Card
+2023-10-20,South,Desk,14,275.34,Store B,Retail,0.1,Carlos,3469.284,Online
+2024-09-19,Central,Desk,2,27.64,Store B,Retail,0.15,Frank,46.988,Credit Card
+2023-09-23,North,Monitor,17,439.3,Store B,Retail,0,Frank,7468.1,Online
+2024-12-31,East,Printer,15,573.81,Store C,Retail,0,Alice,8607.15,Gift Card
+2024-01-23,North,Desk,19,360.06,Store C,Wholesale,0.05,Eva,6499.083,Debit Card
+2023-06-13,East,Laptop,7,535.2,Store C,Retail,0.1,Frank,3371.76,Debit Card
+2023-07-01,East,Chair,19,161.13,Store A,Wholesale,0,Diana,3061.47,Credit Card
+2025-03-22,South,Laptop,11,29.6,Store D,Retail,0.15,Carlos,276.76,Cash
+2025-02-07,South,Laptop,16,172.89,Store B,Wholesale,0.15,Diana,2351.304,Credit Card
+2023-10-18,North,Phone,5,48.06,Store A,Wholesale,0,Alice,240.3,Gift Card
+2024-01-02,Central,Desk,7,55.76,Store C,Wholesale,0.1,Alice,351.288,Online
+2025-03-08,South,Laptop,4,24.58,Store B,Wholesale,0.15,Carlos,83.572,Debit Card
+2023-07-03,West,Desk,2,504.82,Store D,Retail,0,Carlos,1009.64,Debit Card
+2023-11-15,North,Tablet,17,275.89,Store B,Wholesale,0.1,Bob,4221.117,Gift Card
+2024-02-10,West,Desk,9,130.57,Store C,Wholesale,0.1,Eva,1057.617,Cash
+2025-04-09,West,Monitor,12,312.72,Store C,Retail,0,Eva,3752.64,Gift Card
+2023-09-09,West,Tablet,18,222.66,Store C,Wholesale,0.05,Alice,3807.486,Gift Card
+2023-03-19,East,Phone,13,374.05,Store D,Wholesale,0.05,Diana,4619.5175,Debit Card
+2024-12-31,Central,Printer,11,331.29,Store B,Wholesale,0.1,Alice,3279.771,Credit Card
+2023-11-24,Central,Phone,5,533.52,Store D,Wholesale,0,Carlos,2667.6,Credit Card
+2025-05-15,East,Chair,10,492.24,Store A,Retail,0,Alice,4922.4,Gift Card
+2025-04-06,South,Tablet,9,543.57,Store D,Retail,0.15,Diana,4158.3105,Debit Card
+2024-02-06,South,Desk,17,141.76,Store D,Wholesale,0.1,Bob,2168.928,Cash
+2025-05-14,North,Laptop,12,502.7,Store D,Wholesale,0.1,Alice,5429.16,Credit Card
+2023-01-13,East,Tablet,10,155.43,Store D,Wholesale,0.05,Frank,1476.585,Gift Card
+2024-02-19,North,Tablet,18,203.73,Store B,Wholesale,0,Carlos,3667.14,Gift Card
+2023-10-07,South,Phone,3,464.11,Store B,Wholesale,0.15,Alice,1183.4805,Gift Card
+2024-09-17,Central,Chair,2,442.03,Store B,Retail,0.15,Carlos,751.451,Debit Card
+2023-05-07,North,Phone,7,82.91,Store A,Retail,0.05,Eva,551.3515,Debit Card
+2023-12-12,North,Phone,13,468.16,Store B,Retail,0.15,Alice,5173.168,Cash
+2025-03-11,Central,Tablet,3,11.32,Store C,Retail,0.05,Eva,32.262,Online
+2024-03-29,East,Chair,1,378.36,Store A,Retail,0.05,Eva,359.442,Cash
+2024-07-28,West,Tablet,6,61.06,Store D,Wholesale,0,Bob,366.36,Debit Card
+2024-07-11,South,Tablet,14,98.06,Store A,Wholesale,0.1,Alice,1235.556,Debit Card
+2024-07-05,West,Laptop,16,123.86,Store A,Wholesale,0.15,Alice,1684.496,Gift Card
+2024-03-19,East,Laptop,16,90.3,Store C,Wholesale,0.05,Diana,1372.56,Online
+2023-12-25,Central,Tablet,18,470.91,Store C,Wholesale,0.1,Eva,7628.742,Gift Card
+2024-12-03,South,Monitor,12,383.45,Store C,Retail,0,Bob,4601.4,Debit Card
+2023-09-08,East,Tablet,20,293.94,Store B,Retail,0.15,Alice,4996.98,Credit Card
+2024-01-05,East,Desk,2,454.01,Store B,Wholesale,0,Diana,908.02,Online
+2023-08-03,South,Chair,5,163.55,Store D,Retail,0.05,Frank,776.8625,Cash
+2025-02-11,North,Monitor,12,141.61,Store B,Wholesale,0,Frank,1699.32,Credit Card
+2023-06-17,South,Chair,6,332.18,Store B,Wholesale,0.1,Bob,1793.772,Online
+2024-02-05,Central,Monitor,14,463.96,Store D,Retail,0.15,Diana,5521.124,Gift Card
+2024-03-17,South,Desk,10,68.27,Store A,Wholesale,0.15,Diana,580.295,Credit Card
+2024-02-03,Central,Laptop,8,27.01,Store C,Wholesale,0.05,Eva,205.276,Online
+2023-03-31,North,Tablet,9,78.8,Store D,Retail,0.1,Alice,638.28,Online
+2023-08-18,West,Tablet,16,174.68,Store B,Wholesale,0.15,Frank,2375.648,Credit Card
+2023-09-10,Central,Printer,4,306.06,Store C,Wholesale,0.05,Carlos,1163.028,Gift Card
+2024-01-29,South,Tablet,12,164.22,Store C,Retail,0,Bob,1970.64,Credit Card
+2024-03-21,North,Tablet,20,336.29,Store C,Retail,0,Eva,6725.8,Gift Card
+2024-08-03,West,Tablet,7,180.25,Store D,Retail,0.1,Diana,1135.575,Gift Card
+2025-05-05,North,Monitor,1,21.75,Store C,Retail,0,Alice,21.75,Cash
+2023-02-08,West,Tablet,13,149.16,Store C,Retail,0.1,Eva,1745.172,Cash
+2023-05-26,Central,Chair,7,220.9,Store A,Wholesale,0.15,Bob,1314.355,Gift Card
+2024-07-15,East,Chair,1,364.27,Store A,Retail,0.1,Alice,327.843,Debit Card
+2024-12-18,North,Monitor,9,306.42,Store C,Wholesale,0,Bob,2757.78,Online
+2024-09-29,North,Tablet,18,589,Store B,Wholesale,0.1,Diana,9541.8,Cash
+2024-10-25,South,Desk,16,249.45,Store C,Wholesale,0.1,Alice,3592.08,Cash
+2025-01-06,North,Monitor,20,440.32,Store C,Retail,0.05,Alice,8366.08,Debit Card
+2023-11-19,Central,Tablet,3,101.34,Store A,Wholesale,0,Carlos,304.02,Debit Card
+2024-04-11,South,Phone,17,311.61,Store A,Retail,0.05,Eva,5032.5015,Online
+2024-03-30,South,Monitor,2,441.18,Store B,Retail,0.15,Bob,750.006,Cash
+2024-11-25,North,Chair,20,286.66,Store D,Retail,0.1,Carlos,5159.88,Debit Card
+2025-01-06,North,Printer,13,483.63,Store A,Retail,0.05,Carlos,5972.8305,Cash
+2023-04-15,West,Tablet,8,304.15,Store B,Wholesale,0.05,Carlos,2311.54,Debit Card
+2024-02-07,East,Printer,10,452.21,Store A,Retail,0.1,Eva,4069.89,Cash
+2023-06-02,East,Printer,4,248.16,Store B,Retail,0.1,Diana,893.376,Credit Card
+2023-08-24,East,Laptop,4,520,Store A,Retail,0,Eva,2080,Credit Card
+2024-12-06,South,Chair,11,571.07,Store A,Retail,0,Frank,6281.77,Gift Card
+2023-12-08,East,Tablet,11,65.57,Store D,Retail,0.1,Diana,649.143,Debit Card
+2023-05-12,South,Tablet,4,397.02,Store A,Wholesale,0,Frank,1588.08,Cash
+2025-04-24,West,Laptop,10,169.35,Store B,Retail,0.05,Alice,1608.825,Credit Card
+2023-04-23,Central,Tablet,9,340.44,Store D,Retail,0.05,Carlos,2910.762,Debit Card
+2023-01-18,North,Monitor,1,120.2,Store D,Retail,0.05,Carlos,114.19,Online
+2025-05-11,North,Phone,13,169.39,Store B,Wholesale,0.15,Diana,1871.7595,Credit Card
+2024-12-23,West,Tablet,10,170.72,Store A,Wholesale,0.05,Frank,1621.84,Online
+2023-08-20,West,Desk,9,323.77,Store A,Wholesale,0.15,Carlos,2476.8405,Debit Card
+2025-03-18,Central,Chair,4,481.86,Store B,Wholesale,0,Bob,1927.44,Online
+2024-01-16,Central,Phone,4,78.05,Store A,Retail,0,Carlos,312.2,Credit Card
+2024-05-29,East,Tablet,6,57.4,Store C,Wholesale,0.1,Eva,309.96,Debit Card
+2025-03-25,South,Laptop,9,454.98,Store B,Wholesale,0.15,Eva,3480.597,Credit Card
+2025-03-22,Central,Desk,11,365.75,Store D,Wholesale,0.05,Bob,3822.0875,Debit Card
+2024-08-17,East,Phone,7,106.88,Store C,Retail,0.05,Diana,710.752,Cash
+2024-06-02,South,Printer,2,250.98,Store B,Wholesale,0.1,Eva,451.764,Online
+2023-03-31,South,Monitor,8,591.29,Store C,Retail,0.1,Diana,4257.288,Credit Card
+2024-05-19,West,Monitor,18,369.79,Store A,Wholesale,0.05,Eva,6323.409,Cash
+2023-03-02,West,Desk,15,166.24,Store D,Wholesale,0.1,Diana,2244.24,Debit Card
+2023-03-13,North,Printer,12,260.76,Store C,Wholesale,0.15,Carlos,2659.752,Online
+2025-04-16,West,Laptop,10,348.63,Store D,Wholesale,0.05,Diana,3311.985,Credit Card
+2024-06-05,North,Chair,5,473.28,Store A,Retail,0,Diana,2366.4,Credit Card
+2024-09-01,North,Chair,16,401.83,Store B,Retail,0,Eva,6429.28,Cash
+2024-09-21,North,Phone,10,269.29,Store C,Retail,0,Eva,2692.9,Debit Card
+2025-01-11,North,Desk,4,323.02,Store C,Retail,0.05,Diana,1227.476,Cash
+2023-01-04,West,Monitor,15,439.89,Store D,Retail,0.15,Diana,5608.5975,Online
+2023-05-02,West,Monitor,16,483.09,Store C,Wholesale,0.05,Alice,7342.968,Debit Card
+2023-07-09,East,Phone,13,27.39,Store B,Retail,0.15,Frank,302.6595,Cash
+2025-02-27,East,Monitor,18,432.52,Store D,Retail,0.05,Bob,7396.092,Credit Card
+2024-09-23,West,Printer,3,360.93,Store B,Wholesale,0.15,Diana,920.3715,Debit Card
+2025-06-22,East,Tablet,5,414.58,Store B,Retail,0.1,Diana,1865.61,Gift Card
+2025-01-19,Central,Tablet,4,68.04,Store C,Wholesale,0,Bob,272.16,Online
+2025-02-03,East,Phone,10,407.99,Store C,Retail,0.15,Eva,3467.915,Cash
+2023-11-11,East,Tablet,15,274.77,Store D,Retail,0,Eva,4121.55,Cash
+2024-05-08,East,Desk,15,31.81,Store C,Wholesale,0.15,Eva,405.5775,Cash
+2023-09-18,South,Printer,14,268.32,Store D,Retail,0,Frank,3756.48,Online
+2025-04-05,Central,Tablet,19,350.12,Store D,Retail,0.05,Alice,6319.666,Credit Card
+2023-09-13,Central,Desk,9,329.15,Store A,Retail,0.05,Diana,2814.2325,Gift Card
+2024-06-28,East,Monitor,1,577.07,Store C,Wholesale,0.05,Frank,548.2165,Online
+2023-04-06,Central,Chair,6,544.33,Store B,Wholesale,0.1,Carlos,2939.382,Cash
+2023-05-13,South,Laptop,18,331.45,Store D,Retail,0.15,Alice,5071.185,Cash
+2025-05-07,East,Laptop,1,421.26,Store D,Retail,0.1,Eva,379.134,Debit Card
+2025-03-22,North,Tablet,4,555.02,Store B,Retail,0.1,Diana,1998.072,Cash
+2024-06-24,South,Laptop,19,254.03,Store C,Wholesale,0,Frank,4826.57,Online
+2025-06-29,West,Tablet,9,533.93,Store D,Retail,0.15,Frank,4084.5645,Gift Card
+2024-04-01,West,Desk,7,241.35,Store B,Wholesale,0.1,Diana,1520.505,Credit Card
+2024-06-04,North,Tablet,11,160.37,Store B,Wholesale,0.05,Carlos,1675.8665,Cash
+2023-03-30,East,Tablet,1,419.1,Store B,Wholesale,0.1,Carlos,377.19,Gift Card
+2025-03-26,East,Laptop,13,138.72,Store D,Wholesale,0.15,Carlos,1532.856,Cash
+2023-08-22,West,Monitor,8,461.04,Store B,Retail,0,Alice,3688.32,Online
+2024-04-16,South,Phone,6,524.19,Store D,Retail,0.15,Frank,2673.369,Cash
+2025-05-11,Central,Chair,16,305.21,Store A,Wholesale,0.1,Alice,4395.024,Debit Card
+2023-12-11,North,Printer,16,438.71,Store C,Retail,0,Alice,7019.36,Online
+2023-01-16,North,Printer,10,193.96,Store D,Wholesale,0.1,Alice,1745.64,Gift Card
+2023-05-10,East,Phone,18,580.42,Store A,Wholesale,0.05,Bob,9925.182,Online
+2024-06-22,Central,Monitor,18,91.55,Store C,Retail,0.1,Alice,1483.11,Debit Card
+2025-03-29,West,Tablet,13,113.78,Store C,Wholesale,0.1,Eva,1331.226,Online
+2023-04-18,North,Tablet,16,477.91,Store A,Wholesale,0,Carlos,7646.56,Credit Card
+2023-02-07,Central,Laptop,14,306.39,Store A,Retail,0.1,Eva,3860.514,Cash
+2025-01-22,East,Tablet,17,8.33,Store A,Retail,0.05,Eva,134.5295,Cash
+2023-07-04,East,Phone,6,346.86,Store C,Retail,0.05,Eva,1977.102,Gift Card
+2023-07-31,Central,Desk,14,223.26,Store B,Wholesale,0.1,Alice,2813.076,Credit Card
+2023-04-20,North,Desk,6,529.1,Store D,Wholesale,0,Eva,3174.6,Debit Card
+2024-10-08,Central,Tablet,11,97.34,Store D,Wholesale,0.1,Carlos,963.666,Debit Card
+2024-01-25,East,Chair,11,422.89,Store B,Retail,0.1,Frank,4186.611,Credit Card
+2024-12-16,South,Monitor,4,557.17,Store C,Wholesale,0.05,Frank,2117.246,Credit Card
+2024-10-24,Central,Printer,9,459.65,Store B,Retail,0.1,Bob,3723.165,Gift Card
+2023-11-16,West,Monitor,8,493.35,Store A,Retail,0.1,Alice,3552.12,Cash
+2024-03-31,South,Laptop,13,428.59,Store D,Retail,0,Bob,5571.67,Cash
+2023-02-13,East,Laptop,7,242.11,Store C,Wholesale,0.05,Eva,1610.0315,Debit Card
+2023-09-20,South,Tablet,17,477.38,Store C,Retail,0.05,Alice,7709.687,Gift Card
+2023-06-27,South,Chair,3,261.6,Store D,Retail,0.05,Diana,745.56,Cash
+2025-04-02,Central,Laptop,6,416.2,Store A,Wholesale,0.05,Alice,2372.34,Cash
+2025-04-16,North,Printer,15,99.66,Store A,Wholesale,0,Eva,1494.9,Cash
+2024-07-09,Central,Laptop,16,55.56,Store D,Wholesale,0.15,Frank,755.616,Cash
+2025-06-23,East,Phone,20,243.47,Store A,Wholesale,0.05,Alice,4625.93,Gift Card
+2024-06-09,East,Tablet,11,185.59,Store B,Retail,0.1,Carlos,1837.341,Gift Card
+2023-12-01,Central,Desk,11,347.38,Store C,Wholesale,0.05,Eva,3630.121,Credit Card
+2024-07-24,West,Tablet,15,318.03,Store D,Retail,0.05,Diana,4531.9275,Gift Card
+2023-04-12,West,Chair,15,242.35,Store D,Wholesale,0.15,Diana,3089.9625,Cash
+2024-12-17,North,Desk,3,82.09,Store B,Retail,0.15,Eva,209.3295,Gift Card
+2024-08-08,South,Monitor,10,285.73,Store D,Wholesale,0.15,Eva,2428.705,Cash
+2024-09-15,East,Laptop,17,341.52,Store C,Wholesale,0.1,Eva,5225.256,Credit Card
+2023-10-08,South,Tablet,14,216.4,Store D,Wholesale,0.1,Diana,2726.64,Debit Card
+2025-05-23,South,Phone,16,231.76,Store B,Retail,0.15,Bob,3151.936,Online
+2023-01-02,South,Laptop,7,61.47,Store C,Retail,0.15,Eva,365.7465,Online
+2023-10-19,North,Desk,15,434.44,Store B,Wholesale,0,Bob,6516.6,Debit Card
+2025-04-25,West,Chair,16,484.01,Store A,Wholesale,0,Alice,7744.16,Online
+2024-03-31,Central,Desk,2,55.08,Store C,Wholesale,0,Frank,110.16,Credit Card
+2025-01-31,North,Printer,13,223.44,Store B,Retail,0.15,Carlos,2469.012,Credit Card
+2025-03-27,East,Phone,11,548.08,Store D,Wholesale,0.05,Eva,5727.436,Cash
+2025-01-19,Central,Desk,11,133.64,Store D,Wholesale,0,Diana,1470.04,Debit Card
+2024-05-16,North,Chair,19,368.85,Store C,Retail,0.1,Bob,6307.335,Gift Card
+2023-09-04,Central,Chair,14,115.98,Store A,Wholesale,0,Bob,1623.72,Debit Card
+2023-12-17,South,Monitor,9,55.04,Store B,Retail,0.15,Alice,421.056,Online
+2024-01-15,Central,Monitor,4,159.54,Store A,Wholesale,0.05,Alice,606.252,Credit Card
+2024-12-19,Central,Laptop,15,150.15,Store C,Retail,0,Frank,2252.25,Online
+2023-12-16,North,Chair,9,57.93,Store C,Wholesale,0,Bob,521.37,Gift Card
+2025-05-14,Central,Laptop,4,438.58,Store D,Retail,0.05,Alice,1666.604,Online
+2023-06-30,South,Monitor,6,536.24,Store D,Retail,0,Diana,3217.44,Cash
+2025-06-30,South,Phone,20,444.77,Store B,Wholesale,0.1,Diana,8005.86,Online
+2025-03-14,Central,Printer,10,212.1,Store B,Retail,0.15,Eva,1802.85,Gift Card
+2023-04-18,South,Phone,9,509.44,Store B,Retail,0.15,Eva,3897.216,Credit Card
+2024-09-11,West,Monitor,8,236.17,Store C,Wholesale,0.15,Frank,1605.956,Cash
+2023-11-21,Central,Printer,1,147.4,Store D,Retail,0,Carlos,147.4,Cash
+2024-02-29,West,Tablet,8,279.74,Store B,Retail,0.05,Alice,2126.024,Gift Card
+2023-05-11,West,Laptop,3,304.61,Store B,Wholesale,0.05,Bob,868.1385,Cash
+2024-09-11,South,Tablet,9,238.32,Store C,Retail,0,Diana,2144.88,Cash
+2024-08-16,West,Printer,16,483.37,Store B,Retail,0.1,Alice,6960.528,Debit Card
+2025-05-30,North,Monitor,6,159.53,Store A,Retail,0.05,Bob,909.321,Gift Card
+2023-08-22,East,Desk,19,280.6,Store A,Wholesale,0.1,Frank,4798.26,Gift Card
+2024-01-23,East,Tablet,2,389.98,Store D,Wholesale,0.05,Carlos,740.962,Debit Card
+2023-03-16,North,Monitor,17,485.3,Store D,Retail,0.15,Diana,7012.585,Cash
+2025-05-16,South,Laptop,4,472.24,Store D,Retail,0,Alice,1888.96,Gift Card
+2023-05-23,East,Monitor,8,143.53,Store D,Wholesale,0,Alice,1148.24,Cash
+2024-06-16,North,Chair,5,159.92,Store B,Wholesale,0,Carlos,799.6,Cash
+2025-01-28,Central,Monitor,13,447.34,Store A,Wholesale,0.05,Frank,5524.649,Cash
+2024-11-27,South,Phone,13,196.8,Store B,Retail,0.1,Diana,2302.56,Cash
+2023-10-09,Central,Chair,3,485.81,Store A,Wholesale,0.1,Eva,1311.687,Debit Card
+2024-07-21,West,Phone,16,183.62,Store A,Wholesale,0.05,Bob,2791.024,Gift Card
+2024-07-03,East,Monitor,2,373.07,Store A,Retail,0.05,Diana,708.833,Credit Card
+2024-09-24,West,Monitor,17,527.68,Store B,Wholesale,0,Diana,8970.56,Gift Card
+2025-01-14,East,Tablet,5,201.29,Store D,Wholesale,0,Carlos,1006.45,Online
+2025-02-17,West,Desk,13,134.56,Store D,Retail,0.05,Carlos,1661.816,Credit Card
+2024-01-11,South,Chair,18,209.75,Store C,Wholesale,0.15,Frank,3209.175,Debit Card
+2024-07-27,East,Desk,1,272.5,Store A,Wholesale,0,Eva,272.5,Gift Card
+2024-12-03,Central,Monitor,14,262.67,Store A,Retail,0.05,Carlos,3493.511,Gift Card
+2025-05-09,West,Chair,13,221.39,Store D,Wholesale,0,Frank,2878.07,Debit Card
